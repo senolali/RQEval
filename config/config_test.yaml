@@ -1,0 +1,56 @@
+# ============================================================
+# config_test.yaml
+# Quick smoke test — no API keys, no HuggingFace downloads
+# Runs in ~2 minutes on any machine
+#
+# Uses:
+#   - Mock model (simulates LLM responses, no API needed)
+#   - Synthetic dataset (auto-generated, no download needed)
+# ============================================================
+
+experiment:
+  name: "QuickTest"
+  seed: 42
+  deterministic: false
+  output_dir: "outputs"
+  verbose: true
+
+models:
+  - name: "Mock-Model"
+    type: "mock"
+    params:
+      accuracy_level: 0.8   # 80% correct answers
+      seed: 42
+
+datasets:
+  - name: "synthetic"
+    type: "synthetic"
+    params:
+      num_reasoning:   5
+      num_adversarial: 3
+      num_robustness:  2
+      seed: 42
+
+metrics:
+  consistency_runs: 3
+  robustness_perturbations: 3
+  stability_runs: 3
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  bertscore_model: "distilbert-base-uncased"
+
+aggregation:
+  strategies:
+    balanced:
+      correctness:       0.1667
+      consistency:       0.1667
+      robustness:        0.1667
+      logical_coherence: 0.1667
+      efficiency:        0.1667
+      stability:         0.1667
+    accuracy_priority:
+      correctness:       0.40
+      consistency:       0.25
+      robustness:        0.15
+      logical_coherence: 0.10
+      efficiency:        0.05
+      stability:         0.05

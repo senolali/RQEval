@@ -1,0 +1,100 @@
+# ============================================================
+# config_asu_smoke.yaml
+# Real-API smoke test for the ASU CreateAI gateway.
+# Small sample sizes — verifies auth, model keys, response
+# parsing, and rate-limit handling before the full run.
+#
+# Run:  python main.py --config config/config_asu_smoke.yaml
+# Requires: ASU_CREATEAI_TOKEN in .env
+# ============================================================
+
+experiment:
+  name: "ASU_Smoke_Test"
+  seed: 42
+  deterministic: false
+  output_dir: "outputs_smoke"
+  verbose: true
+
+# Parallel evaluation workers for API models (top-level — this is what the
+# evaluator actually reads; per-model params max_workers is ignored).
+# Local models are always forced to 1 worker.
+max_workers: 4
+
+models:
+  - name: "GPT-4o-mini"
+    type: "asu"
+    params:
+      model_name: "gpt4o_mini"
+      model_provider: "openai"
+      api_key_env: "ASU_CREATEAI_TOKEN"
+      max_tokens: 256
+      max_retries: 5
+      timeout: 120
+      temperature: 0.7
+      request_delay: 1.0
+      max_workers: 2
+
+  - name: "Claude-Haiku-4.5"
+    type: "asu"
+    params:
+      model_name: "claude4_5_haiku"
+      model_provider: "aws"
+      api_key_env: "ASU_CREATEAI_TOKEN"
+      max_tokens: 256
+      max_retries: 5
+      timeout: 120
+      temperature: 0.7
+      request_delay: 1.0
+      max_workers: 2
+
+  - name: "Gemini-2.5-Flash"
+    type: "asu"
+    params:
+      model_name: "geminiflash2_5"
+      model_provider: "gcp-deepmind"
+      api_key_env: "ASU_CREATEAI_TOKEN"
+      max_tokens: 256
+      max_retries: 5
+      timeout: 120
+      temperature: 0.7
+      request_delay: 1.0
+      max_workers: 2
+
+  - name: "LLaMA-3-70B"
+    type: "asu"
+    params:
+      model_name: "llama3-70b"
+      model_provider: "aws"
+      api_key_env: "ASU_CREATEAI_TOKEN"
+      max_tokens: 256
+      max_retries: 5
+      timeout: 120
+      temperature: 0.7
+      request_delay: 1.0
+      max_workers: 2
+
+datasets:
+  - name: "synthetic"
+    type: "synthetic"
+    params:
+      num_reasoning:   5
+      num_adversarial: 3
+      num_robustness:  2
+      seed: 42
+
+metrics:
+  consistency_runs: 2
+  robustness_perturbations: 2
+  stability_runs: 2
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  bertscore_model: "distilbert-base-uncased"
+
+aggregation:
+  strategies:
+    balanced:
+      correctness:       0.1667
+      consistency:       0.1667
+      robustness:        0.1667
+      logical_coherence: 0.1667
+      efficiency:        0.1667
+      stability:         0.1667

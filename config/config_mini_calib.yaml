@@ -1,0 +1,79 @@
+# ============================================================
+# config_mini_calib.yaml  —  ADIM 5: Mini kalibrasyon koşusu
+# Sadece GPT-4o-mini, gerçek dataset'lerden 20'şer örnek.
+# Amaç: (a) GSM8K/MMLU/StrategyQA HF yükleyicilerinin çalıştığını
+# görmek, (b) gerçek verideki CQ bandını kontrol etmek
+# (GPT-4o-mini GSM8K'da ~0.7-0.9 beklenir), (c) öğe başına süreyi
+# ölçüp tam koşu süresini tahmin etmek:
+#   tam koşu ≈ (bu koşunun süresi) × (975/70) × 7 model (kabaca)
+#
+# Koş:  python main.py --config config\config_mini_calib.yaml
+# NOT: Deney adı farklı olduğu için checkpoint'i tam koşuyla
+#      karışmaz; outputs_mini altına yazar.
+# ============================================================
+
+experiment:
+  name: "Mini_Calibration"
+  seed: 42
+  deterministic: false
+  output_dir: "outputs_mini"
+  verbose: true
+
+max_workers: 4
+
+models:
+  - name: "GPT-4o-mini"
+    type: "asu"
+    params:
+      model_name: "gpt4o_mini"
+      model_provider: "openai"
+      api_key_env: "ASU_CREATEAI_TOKEN"
+      max_tokens: 256
+      max_retries: 5
+      timeout: 120
+      temperature: 0.7
+      request_delay: 1.0
+
+datasets:
+  - name: "synthetic"
+    type: "synthetic"
+    params:
+      num_reasoning:   4
+      num_adversarial: 3
+      num_robustness:  3
+      seed: 42
+
+  - name: "gsm8k"
+    type: "gsm8k"
+    params:
+      num_samples: 20
+      seed: 42
+
+  - name: "strategyqa"
+    type: "strategyqa"
+    params:
+      num_samples: 20
+      seed: 42
+
+  - name: "mmlu"
+    type: "mmlu"
+    params:
+      num_samples: 20
+      seed: 42
+
+metrics:
+  consistency_runs: 3
+  robustness_perturbations: 3
+  stability_runs: 3
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  bertscore_model: "distilbert-base-uncased"
+
+aggregation:
+  strategies:
+    balanced:
+      correctness:       0.1667
+      consistency:       0.1667
+      robustness:        0.1667
+      logical_coherence: 0.1667
+      efficiency:        0.1667
+      stability:         0.1667

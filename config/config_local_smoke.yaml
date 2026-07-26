@@ -1,0 +1,71 @@
+# ============================================================
+# config_local_smoke.yaml  —  ADIM 4: Lokal model smoke testi
+# Qwen2.5-1.5B (önce float16 denemesi!) + Phi-2, küçük örneklem.
+#
+# Koş:  python main.py --config config\config_local_smoke.yaml
+#
+# DİKKAT — Qwen float16 denemesi:
+#   Aşağıda Qwen use_4bit: false (float16). 4 GB VRAM'de OOM
+#   (CUDA out of memory) verirse use_4bit: true yap ve tekrar koş
+#   (checkpoint sayesinde Phi-2 tarafı tekrar koşulmaz).
+#   float16 SIĞARSA haber ver: makale revizyon notu #3 düşer,
+#   tam koşuda da float16 kullanırız.
+# ============================================================
+
+experiment:
+  name: "Local_Smoke"
+  seed: 42
+  deterministic: false
+  output_dir: "outputs_local_smoke"
+  verbose: true
+
+max_workers: 1        # lokal modeller zaten seri koşar
+
+models:
+  # - name: "Qwen2.5-1.5B"
+    # type: "local"
+    # params:
+      # model_id: "Qwen/Qwen2.5-1.5B-Instruct"
+      # device: "cuda"
+      # use_4bit: false          # ← float16 denemesi; OOM olursa true yap
+      # max_new_tokens: 256
+      # trust_remote_code: true
+      # temperature: 0.7
+      # max_workers: 1
+
+  - name: "Phi-2"
+    type: "local"
+    params:
+      model_id: "microsoft/phi-2"
+      device: "cuda"
+      use_4bit: false
+      max_new_tokens: 256
+      trust_remote_code: true
+      temperature: 0.7
+      max_workers: 1
+
+datasets:
+  - name: "synthetic"
+    type: "synthetic"
+    params:
+      num_reasoning:   5
+      num_adversarial: 3
+      num_robustness:  2
+      seed: 42
+
+metrics:
+  consistency_runs: 3
+  robustness_perturbations: 3
+  stability_runs: 3
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  bertscore_model: "distilbert-base-uncased"
+
+aggregation:
+  strategies:
+    balanced:
+      correctness:       0.1667
+      consistency:       0.1667
+      robustness:        0.1667
+      logical_coherence: 0.1667
+      efficiency:        0.1667
+      stability:         0.1667

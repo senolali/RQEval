@@ -1,0 +1,13 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include config *.yaml *.yml
+recursive-include rqeval *.py
+recursive-include metrics *.py
+recursive-include models *.py
+recursive-include llm_datasets *.py
+recursive-include evaluation *.py
+recursive-include visualization *.py
+recursive-include utils *.py
+exclude outputs/*
+exclude .env*

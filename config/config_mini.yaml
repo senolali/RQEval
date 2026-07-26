@@ -1,0 +1,267 @@
+# ============================================================
+# LLM Reasoning Quality Evaluation Framework
+# Main Configuration File
+#
+# HOW TO ADD A NEW MODEL (no code needed):
+#   - type: "openai"    → any OpenAI-compatible API
+#   - type: "anthropic" → Claude models
+#   - type: "gemini"    → Google Gemini models
+#   - type: "deepseek"  → DeepSeek models
+#   - type: "local"     → any HuggingFace model
+#   - type: "mock"      → testing without APIs
+#
+# HOW TO ADD A NEW DATASET (no code needed):
+#   - type: "synthetic"  → auto-generated
+#   - type: "gsm8k"      → math reasoning
+#   - type: "strategyqa" → commonsense yes/no
+#   - type: "mmlu"       → multi-subject multiple choice
+#   - type: "json"       → your own JSON file
+#   Set num_samples to control how many examples to use.
+#
+# HOW TO ADD A NEW AGGREGATION STRATEGY (no code needed):
+#   Add a new block under aggregation.strategies
+#   Weights must sum to 1.0
+# ============================================================
+
+experiment:
+  name: "LLM_Reasoning_Quality_Evaluation_MiniTest"
+  seed: 42
+  deterministic: false
+  output_dir: "outputs"
+  verbose: true
+
+# ──────────────────────────────────────────────────────────
+# MODELS
+# API keys are read from environment variables or .env file.
+# Copy .env.example → .env and fill in your keys.
+# Models with missing API keys are automatically skipped.
+# ──────────────────────────────────────────────────────────
+models:
+
+  # ── Closed Source: API Models ──────────────────────────
+
+  - name: "GPT-4o-mini"
+    type: "openai"
+    params:
+      model_id: "gpt-4o-mini"
+      api_key_env: "OPENAI_API_KEY"
+      max_tokens: 512
+      max_retries: 3
+      timeout: 120
+      temperature: 0.7
+
+  - name: "Claude-Haiku-4.5"
+    type: "anthropic"
+    params:
+      model_id: "claude-haiku-4-5-20251001"
+      api_key_env: "ANTHROPIC_API_KEY"
+      max_tokens: 512
+      max_retries: 3
+      timeout: 120
+      temperature: 0.7
+
+  - name: "Gemini-2.0-Flash"
+    type: "gemini"
+    params:
+      model_id: "gemini-2.0-flash"
+      api_key_env: "GOOGLE_API_KEY"
+      max_tokens: 512
+      max_retries: 3
+      timeout: 120
+      temperature: 0.7
+
+  - name: "DeepSeek-V3"
+    type: "deepseek"
+    params:
+      model_id: "deepseek-chat"
+      api_key_env: "DEEPSEEK_API_KEY"
+      base_url: "https://api.deepseek.com"
+      max_tokens: 512
+      max_retries: 3
+      timeout: 120
+      temperature: 0.7
+    
+  - name: "Groq-LLaMA3-70B"
+    type: "openai"              # ← openai tipi, Groq OpenAI-compatible
+    params:
+        model_id: "llama-3.3-70b-versatile"   # Groq model adı
+        api_key_env: "GROQ_API_KEY"
+        base_url: "https://api.groq.com/openai/v1"   # ← Groq endpoint
+        max_tokens: 512
+        max_retries: 3
+        timeout: 120
+        temperature: 0.7
+
+
+  # ── Open Source: HuggingFace Local Models ───────────────
+  # Downloaded automatically on first run.
+  # Cached in: ~/.cache/huggingface/
+  #
+  # RAM guide:
+  #   use_4bit: false → float32 (safer, more RAM)
+  #   use_4bit: true  → 4-bit quant (saves ~75% RAM, needs bitsandbytes)
+
+  # - name: "Mistral-7B-Instruct"
+    # type: "local"
+    # params:
+      # model_id: "mistralai/Mistral-7B-Instruct-v0.3"
+      # device: "cpu" #or cpu
+      # use_4bit: false
+      # max_new_tokens: 128  #or 256
+      # trust_remote_code: false
+      # temperature: 0.7
+      
+  - name: "Phi-2"
+    type: "local"
+    params:
+      model_id: "microsoft/phi-2"
+      device: "cuda" #or cpu
+      use_4bit: true
+      max_new_tokens: 128  #or 256
+      trust_remote_code: true
+      temperature: 0.7
+
+  - name: "Qwen2.5-1.5B"
+    type: "local"
+    params:
+      model_id: "Qwen/Qwen2.5-1.5B-Instruct"
+      device: "cuda" #or cpu
+      use_4bit: true
+      max_new_tokens: 128  #or 256
+      trust_remote_code: true
+      temperature: 0.7
+
+  # - name: "LLaMA-3-8B-Instruct"
+    # type: "local"
+    # params:
+      # model_id: "meta-llama/Meta-Llama-3-8B-Instruct"
+      # device: "cpu"
+      # use_4bit: true
+      # max_new_tokens: 128  #or 256
+      # trust_remote_code: false
+      # temperature: 0.7
+
+  # ── Example: How to add a new model ─────────────────────
+  # Uncomment and fill in to add any new model:
+  #
+  # - name: "GPT-4o"
+  #   type: "openai"
+  #   params:
+  #     model_id: "gpt-4o"
+  #     api_key_env: "OPENAI_API_KEY"
+  #     max_tokens: 1024
+  #
+  # - name: "Gemma-2B"
+  #   type: "local"
+  #   params:
+  #     model_id: "google/gemma-2b-it"
+  #     device: "cpu"
+  #     use_4bit: false
+  #     max_new_tokens: 256
+  #     trust_remote_code: true
+
+# ──────────────────────────────────────────────────────────
+# DATASETS
+# num_samples: controls how many examples to use from each.
+# Remove any dataset block to exclude it from evaluation.
+# ──────────────────────────────────────────────────────────
+datasets:
+
+  - name: "synthetic"
+    type: "synthetic"
+    params:
+      num_reasoning: 4
+      num_adversarial: 3
+      num_robustness: 3
+      seed: 42
+
+  - name: "gsm8k"
+    type: "gsm8k"
+    params:
+      num_samples: 10        # ← change this to use more/fewer examples
+      seed: 42
+
+  - name: "strategyqa"
+    type: "strategyqa"
+    params:
+      num_samples: 10        # ← change this to use more/fewer examples
+      seed: 42
+
+  - name: "mmlu"
+    type: "mmlu"
+    params:
+      num_samples: 10        # ← change this to use more/fewer examples
+      seed: 42
+      Optionally restrict to specific subjects:
+      subjects:
+        - "formal_logic"
+        - "logical_fallacies"
+        - "high_school_mathematics"
+
+  # ── Example: How to add your own JSON dataset ───────────
+  # - name: "my_dataset"
+  #   type: "json"
+  #   params:
+  #     path: "data/my_questions.json"
+  #     num_samples: 100      # uses all if not set
+  #     seed: 42
+
+# ──────────────────────────────────────────────────────────
+# METRICS
+# ──────────────────────────────────────────────────────────
+metrics:
+  consistency_runs: 3           # K runs per question for CS metric
+  robustness_perturbations: 3   # P perturbations per question for RS metric
+  stability_runs: 3             # K runs per question for SS metric
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  bertscore_model: "distilbert-base-uncased"
+
+# ──────────────────────────────────────────────────────────
+# AGGREGATION STRATEGIES
+# Add as many custom strategies as you want.
+# Weights are auto-normalized if they don't sum to 1.0.
+# All strategies appear as separate columns in Excel output.
+# ──────────────────────────────────────────────────────────
+aggregation:
+  strategies:
+
+    balanced:
+      correctness:      0.1667
+      consistency:      0.1667
+      robustness:       0.1667
+      logical_coherence: 0.1667
+      efficiency:       0.1667
+      stability:        0.1667
+
+    safety_priority:
+      correctness:      0.30
+      consistency:      0.20
+      robustness:       0.30
+      logical_coherence: 0.10
+      efficiency:       0.05
+      stability:        0.05
+
+    accuracy_priority:
+      correctness:      0.40
+      consistency:      0.25
+      robustness:       0.15
+      logical_coherence: 0.10
+      efficiency:       0.05
+      stability:        0.05
+
+    efficiency_priority:
+      correctness:      0.20
+      consistency:      0.15
+      robustness:       0.15
+      logical_coherence: 0.10
+      efficiency:       0.30
+      stability:        0.10
+
+    # ── Example: add your own custom strategy ─────────────
+    # my_custom_strategy:
+    #   correctness:       0.50
+    #   robustness:        0.30
+    #   logical_coherence: 0.20
+    #   consistency:       0.00
+    #   efficiency:        0.00
+    #   stability:         0.00
