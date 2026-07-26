@@ -1,0 +1,2419 @@
+[
+  {
+    "id": "reasoning_0",
+    "question": "If 5 apples are shared equally among 1 people, how many apples does each person get?",
+    "answer": "5.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 5 apples among 1 people equally. How many per person?",
+      "1 people share 5 apples equally. What is each person's share?",
+      "There are 5 apples and 1 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_1",
+    "question": "A train travels at 76 km/h for 9 hours. How far does it travel?",
+    "answer": "684",
+    "type": "reasoning",
+    "perturbations": [
+      "At 76 km/h for 9 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 76 km/h cover in 9 hours?",
+      "Distance covered by a train going 76 km/h for 9 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_2",
+    "question": "If 4 workers complete a job in 10 days, how many days for 1 worker?",
+    "answer": "40",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 4 workers finish in 10 days?",
+      "With 4 workers finishing in 10 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_3",
+    "question": "If 2 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "1.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 2 apples among 2 people equally. How many per person?",
+      "2 people share 2 apples equally. What is each person's share?",
+      "There are 2 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_4",
+    "question": "A train travels at 56 km/h for 9 hours. How far does it travel?",
+    "answer": "504",
+    "type": "reasoning",
+    "perturbations": [
+      "At 56 km/h for 9 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 56 km/h cover in 9 hours?",
+      "Distance covered by a train going 56 km/h for 9 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_5",
+    "question": "If 8 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "72",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 8 workers finish in 9 days?",
+      "With 8 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_6",
+    "question": "If 16 apples are shared equally among 10 people, how many apples does each person get?",
+    "answer": "1.6",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 16 apples among 10 people equally. How many per person?",
+      "10 people share 16 apples equally. What is each person's share?",
+      "There are 16 apples and 10 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_7",
+    "question": "A train travels at 137 km/h for 5 hours. How far does it travel?",
+    "answer": "685",
+    "type": "reasoning",
+    "perturbations": [
+      "At 137 km/h for 5 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 137 km/h cover in 5 hours?",
+      "Distance covered by a train going 137 km/h for 5 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_8",
+    "question": "If 6 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "24",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 6 workers finish in 4 days?",
+      "With 6 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_9",
+    "question": "If 4 apples are shared equally among 7 people, how many apples does each person get?",
+    "answer": "0.57",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 4 apples among 7 people equally. How many per person?",
+      "7 people share 4 apples equally. What is each person's share?",
+      "There are 4 apples and 7 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_10",
+    "question": "A train travels at 117 km/h for 1 hours. How far does it travel?",
+    "answer": "117",
+    "type": "reasoning",
+    "perturbations": [
+      "At 117 km/h for 1 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 117 km/h cover in 1 hours?",
+      "Distance covered by a train going 117 km/h for 1 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_11",
+    "question": "If 16 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "144",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 16 workers finish in 9 days?",
+      "With 16 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_12",
+    "question": "If 4 apples are shared equally among 9 people, how many apples does each person get?",
+    "answer": "0.44",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 4 apples among 9 people equally. How many per person?",
+      "9 people share 4 apples equally. What is each person's share?",
+      "There are 4 apples and 9 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_13",
+    "question": "A train travels at 99 km/h for 2 hours. How far does it travel?",
+    "answer": "198",
+    "type": "reasoning",
+    "perturbations": [
+      "At 99 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 99 km/h cover in 2 hours?",
+      "Distance covered by a train going 99 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_14",
+    "question": "If 3 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "12",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 3 workers finish in 4 days?",
+      "With 3 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_15",
+    "question": "If 9 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "4.5",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 9 apples among 2 people equally. How many per person?",
+      "2 people share 9 apples equally. What is each person's share?",
+      "There are 9 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_16",
+    "question": "A train travels at 91 km/h for 6 hours. How far does it travel?",
+    "answer": "546",
+    "type": "reasoning",
+    "perturbations": [
+      "At 91 km/h for 6 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 91 km/h cover in 6 hours?",
+      "Distance covered by a train going 91 km/h for 6 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_17",
+    "question": "If 13 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "52",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 13 workers finish in 4 days?",
+      "With 13 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_18",
+    "question": "If 7 apples are shared equally among 9 people, how many apples does each person get?",
+    "answer": "0.78",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 7 apples among 9 people equally. How many per person?",
+      "9 people share 7 apples equally. What is each person's share?",
+      "There are 7 apples and 9 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_19",
+    "question": "A train travels at 119 km/h for 9 hours. How far does it travel?",
+    "answer": "1071",
+    "type": "reasoning",
+    "perturbations": [
+      "At 119 km/h for 9 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 119 km/h cover in 9 hours?",
+      "Distance covered by a train going 119 km/h for 9 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_20",
+    "question": "If 9 workers complete a job in 6 days, how many days for 1 worker?",
+    "answer": "54",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 9 workers finish in 6 days?",
+      "With 9 workers finishing in 6 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_21",
+    "question": "If 3 apples are shared equally among 6 people, how many apples does each person get?",
+    "answer": "0.5",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 3 apples among 6 people equally. How many per person?",
+      "6 people share 3 apples equally. What is each person's share?",
+      "There are 3 apples and 6 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_22",
+    "question": "A train travels at 195 km/h for 6 hours. How far does it travel?",
+    "answer": "1170",
+    "type": "reasoning",
+    "perturbations": [
+      "At 195 km/h for 6 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 195 km/h cover in 6 hours?",
+      "Distance covered by a train going 195 km/h for 6 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_23",
+    "question": "If 8 workers complete a job in 8 days, how many days for 1 worker?",
+    "answer": "64",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 8 workers finish in 8 days?",
+      "With 8 workers finishing in 8 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_24",
+    "question": "If 6 apples are shared equally among 5 people, how many apples does each person get?",
+    "answer": "1.2",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 6 apples among 5 people equally. How many per person?",
+      "5 people share 6 apples equally. What is each person's share?",
+      "There are 6 apples and 5 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_25",
+    "question": "A train travels at 117 km/h for 10 hours. How far does it travel?",
+    "answer": "1170",
+    "type": "reasoning",
+    "perturbations": [
+      "At 117 km/h for 10 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 117 km/h cover in 10 hours?",
+      "Distance covered by a train going 117 km/h for 10 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_26",
+    "question": "If 15 workers complete a job in 10 days, how many days for 1 worker?",
+    "answer": "150",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 15 workers finish in 10 days?",
+      "With 15 workers finishing in 10 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_27",
+    "question": "If 9 apples are shared equally among 3 people, how many apples does each person get?",
+    "answer": "3.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 9 apples among 3 people equally. How many per person?",
+      "3 people share 9 apples equally. What is each person's share?",
+      "There are 9 apples and 3 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_28",
+    "question": "A train travels at 78 km/h for 3 hours. How far does it travel?",
+    "answer": "234",
+    "type": "reasoning",
+    "perturbations": [
+      "At 78 km/h for 3 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 78 km/h cover in 3 hours?",
+      "Distance covered by a train going 78 km/h for 3 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_29",
+    "question": "If 7 workers complete a job in 7 days, how many days for 1 worker?",
+    "answer": "49",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 7 workers finish in 7 days?",
+      "With 7 workers finishing in 7 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_30",
+    "question": "If 14 apples are shared equally among 10 people, how many apples does each person get?",
+    "answer": "1.4",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 14 apples among 10 people equally. How many per person?",
+      "10 people share 14 apples equally. What is each person's share?",
+      "There are 14 apples and 10 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_31",
+    "question": "A train travels at 52 km/h for 2 hours. How far does it travel?",
+    "answer": "104",
+    "type": "reasoning",
+    "perturbations": [
+      "At 52 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 52 km/h cover in 2 hours?",
+      "Distance covered by a train going 52 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_32",
+    "question": "If 19 workers complete a job in 5 days, how many days for 1 worker?",
+    "answer": "95",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 19 workers finish in 5 days?",
+      "With 19 workers finishing in 5 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_33",
+    "question": "If 11 apples are shared equally among 7 people, how many apples does each person get?",
+    "answer": "1.57",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 11 apples among 7 people equally. How many per person?",
+      "7 people share 11 apples equally. What is each person's share?",
+      "There are 11 apples and 7 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_34",
+    "question": "A train travels at 178 km/h for 3 hours. How far does it travel?",
+    "answer": "534",
+    "type": "reasoning",
+    "perturbations": [
+      "At 178 km/h for 3 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 178 km/h cover in 3 hours?",
+      "Distance covered by a train going 178 km/h for 3 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_35",
+    "question": "If 18 workers complete a job in 2 days, how many days for 1 worker?",
+    "answer": "36",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 18 workers finish in 2 days?",
+      "With 18 workers finishing in 2 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_36",
+    "question": "If 8 apples are shared equally among 3 people, how many apples does each person get?",
+    "answer": "2.67",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 8 apples among 3 people equally. How many per person?",
+      "3 people share 8 apples equally. What is each person's share?",
+      "There are 8 apples and 3 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_37",
+    "question": "A train travels at 50 km/h for 10 hours. How far does it travel?",
+    "answer": "500",
+    "type": "reasoning",
+    "perturbations": [
+      "At 50 km/h for 10 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 50 km/h cover in 10 hours?",
+      "Distance covered by a train going 50 km/h for 10 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_38",
+    "question": "If 12 workers complete a job in 8 days, how many days for 1 worker?",
+    "answer": "96",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 12 workers finish in 8 days?",
+      "With 12 workers finishing in 8 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_39",
+    "question": "If 13 apples are shared equally among 5 people, how many apples does each person get?",
+    "answer": "2.6",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 13 apples among 5 people equally. How many per person?",
+      "5 people share 13 apples equally. What is each person's share?",
+      "There are 13 apples and 5 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_40",
+    "question": "A train travels at 70 km/h for 2 hours. How far does it travel?",
+    "answer": "140",
+    "type": "reasoning",
+    "perturbations": [
+      "At 70 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 70 km/h cover in 2 hours?",
+      "Distance covered by a train going 70 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_41",
+    "question": "If 17 workers complete a job in 2 days, how many days for 1 worker?",
+    "answer": "34",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 17 workers finish in 2 days?",
+      "With 17 workers finishing in 2 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_42",
+    "question": "If 6 apples are shared equally among 8 people, how many apples does each person get?",
+    "answer": "0.75",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 6 apples among 8 people equally. How many per person?",
+      "8 people share 6 apples equally. What is each person's share?",
+      "There are 6 apples and 8 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_43",
+    "question": "A train travels at 158 km/h for 4 hours. How far does it travel?",
+    "answer": "632",
+    "type": "reasoning",
+    "perturbations": [
+      "At 158 km/h for 4 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 158 km/h cover in 4 hours?",
+      "Distance covered by a train going 158 km/h for 4 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_44",
+    "question": "If 19 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "76",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 19 workers finish in 4 days?",
+      "With 19 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_45",
+    "question": "If 13 apples are shared equally among 8 people, how many apples does each person get?",
+    "answer": "1.62",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 13 apples among 8 people equally. How many per person?",
+      "8 people share 13 apples equally. What is each person's share?",
+      "There are 13 apples and 8 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_46",
+    "question": "A train travels at 107 km/h for 2 hours. How far does it travel?",
+    "answer": "214",
+    "type": "reasoning",
+    "perturbations": [
+      "At 107 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 107 km/h cover in 2 hours?",
+      "Distance covered by a train going 107 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_47",
+    "question": "If 12 workers complete a job in 1 days, how many days for 1 worker?",
+    "answer": "12",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 12 workers finish in 1 days?",
+      "With 12 workers finishing in 1 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_48",
+    "question": "If 9 apples are shared equally among 10 people, how many apples does each person get?",
+    "answer": "0.9",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 9 apples among 10 people equally. How many per person?",
+      "10 people share 9 apples equally. What is each person's share?",
+      "There are 9 apples and 10 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_49",
+    "question": "A train travels at 108 km/h for 2 hours. How far does it travel?",
+    "answer": "216",
+    "type": "reasoning",
+    "perturbations": [
+      "At 108 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 108 km/h cover in 2 hours?",
+      "Distance covered by a train going 108 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_50",
+    "question": "If 3 workers complete a job in 6 days, how many days for 1 worker?",
+    "answer": "18",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 3 workers finish in 6 days?",
+      "With 3 workers finishing in 6 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_51",
+    "question": "If 9 apples are shared equally among 5 people, how many apples does each person get?",
+    "answer": "1.8",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 9 apples among 5 people equally. How many per person?",
+      "5 people share 9 apples equally. What is each person's share?",
+      "There are 9 apples and 5 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_52",
+    "question": "A train travels at 196 km/h for 10 hours. How far does it travel?",
+    "answer": "1960",
+    "type": "reasoning",
+    "perturbations": [
+      "At 196 km/h for 10 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 196 km/h cover in 10 hours?",
+      "Distance covered by a train going 196 km/h for 10 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_53",
+    "question": "If 17 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "68",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 17 workers finish in 4 days?",
+      "With 17 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_54",
+    "question": "If 8 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "4.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 8 apples among 2 people equally. How many per person?",
+      "2 people share 8 apples equally. What is each person's share?",
+      "There are 8 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_55",
+    "question": "A train travels at 155 km/h for 8 hours. How far does it travel?",
+    "answer": "1240",
+    "type": "reasoning",
+    "perturbations": [
+      "At 155 km/h for 8 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 155 km/h cover in 8 hours?",
+      "Distance covered by a train going 155 km/h for 8 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_56",
+    "question": "If 3 workers complete a job in 2 days, how many days for 1 worker?",
+    "answer": "6",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 3 workers finish in 2 days?",
+      "With 3 workers finishing in 2 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_57",
+    "question": "If 12 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "6.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 12 apples among 2 people equally. How many per person?",
+      "2 people share 12 apples equally. What is each person's share?",
+      "There are 12 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_58",
+    "question": "A train travels at 164 km/h for 3 hours. How far does it travel?",
+    "answer": "492",
+    "type": "reasoning",
+    "perturbations": [
+      "At 164 km/h for 3 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 164 km/h cover in 3 hours?",
+      "Distance covered by a train going 164 km/h for 3 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_59",
+    "question": "If 15 workers complete a job in 3 days, how many days for 1 worker?",
+    "answer": "45",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 15 workers finish in 3 days?",
+      "With 15 workers finishing in 3 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_60",
+    "question": "If 9 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "4.5",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 9 apples among 2 people equally. How many per person?",
+      "2 people share 9 apples equally. What is each person's share?",
+      "There are 9 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_61",
+    "question": "A train travels at 188 km/h for 1 hours. How far does it travel?",
+    "answer": "188",
+    "type": "reasoning",
+    "perturbations": [
+      "At 188 km/h for 1 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 188 km/h cover in 1 hours?",
+      "Distance covered by a train going 188 km/h for 1 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_62",
+    "question": "If 4 workers complete a job in 4 days, how many days for 1 worker?",
+    "answer": "16",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 4 workers finish in 4 days?",
+      "With 4 workers finishing in 4 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_63",
+    "question": "If 17 apples are shared equally among 8 people, how many apples does each person get?",
+    "answer": "2.12",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 17 apples among 8 people equally. How many per person?",
+      "8 people share 17 apples equally. What is each person's share?",
+      "There are 17 apples and 8 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_64",
+    "question": "A train travels at 147 km/h for 1 hours. How far does it travel?",
+    "answer": "147",
+    "type": "reasoning",
+    "perturbations": [
+      "At 147 km/h for 1 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 147 km/h cover in 1 hours?",
+      "Distance covered by a train going 147 km/h for 1 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_65",
+    "question": "If 14 workers complete a job in 5 days, how many days for 1 worker?",
+    "answer": "70",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 14 workers finish in 5 days?",
+      "With 14 workers finishing in 5 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_66",
+    "question": "If 15 apples are shared equally among 9 people, how many apples does each person get?",
+    "answer": "1.67",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 15 apples among 9 people equally. How many per person?",
+      "9 people share 15 apples equally. What is each person's share?",
+      "There are 15 apples and 9 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_67",
+    "question": "A train travels at 105 km/h for 1 hours. How far does it travel?",
+    "answer": "105",
+    "type": "reasoning",
+    "perturbations": [
+      "At 105 km/h for 1 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 105 km/h cover in 1 hours?",
+      "Distance covered by a train going 105 km/h for 1 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_68",
+    "question": "If 20 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "180",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 20 workers finish in 9 days?",
+      "With 20 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_69",
+    "question": "If 3 apples are shared equally among 1 people, how many apples does each person get?",
+    "answer": "3.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 3 apples among 1 people equally. How many per person?",
+      "1 people share 3 apples equally. What is each person's share?",
+      "There are 3 apples and 1 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_70",
+    "question": "A train travels at 90 km/h for 1 hours. How far does it travel?",
+    "answer": "90",
+    "type": "reasoning",
+    "perturbations": [
+      "At 90 km/h for 1 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 90 km/h cover in 1 hours?",
+      "Distance covered by a train going 90 km/h for 1 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_71",
+    "question": "If 18 workers complete a job in 2 days, how many days for 1 worker?",
+    "answer": "36",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 18 workers finish in 2 days?",
+      "With 18 workers finishing in 2 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_72",
+    "question": "If 4 apples are shared equally among 4 people, how many apples does each person get?",
+    "answer": "1.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 4 apples among 4 people equally. How many per person?",
+      "4 people share 4 apples equally. What is each person's share?",
+      "There are 4 apples and 4 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_73",
+    "question": "A train travels at 198 km/h for 10 hours. How far does it travel?",
+    "answer": "1980",
+    "type": "reasoning",
+    "perturbations": [
+      "At 198 km/h for 10 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 198 km/h cover in 10 hours?",
+      "Distance covered by a train going 198 km/h for 10 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_74",
+    "question": "If 3 workers complete a job in 10 days, how many days for 1 worker?",
+    "answer": "30",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 3 workers finish in 10 days?",
+      "With 3 workers finishing in 10 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_75",
+    "question": "If 20 apples are shared equally among 10 people, how many apples does each person get?",
+    "answer": "2.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 20 apples among 10 people equally. How many per person?",
+      "10 people share 20 apples equally. What is each person's share?",
+      "There are 20 apples and 10 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_76",
+    "question": "A train travels at 130 km/h for 4 hours. How far does it travel?",
+    "answer": "520",
+    "type": "reasoning",
+    "perturbations": [
+      "At 130 km/h for 4 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 130 km/h cover in 4 hours?",
+      "Distance covered by a train going 130 km/h for 4 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_77",
+    "question": "If 10 workers complete a job in 7 days, how many days for 1 worker?",
+    "answer": "70",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 10 workers finish in 7 days?",
+      "With 10 workers finishing in 7 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_78",
+    "question": "If 16 apples are shared equally among 6 people, how many apples does each person get?",
+    "answer": "2.67",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 16 apples among 6 people equally. How many per person?",
+      "6 people share 16 apples equally. What is each person's share?",
+      "There are 16 apples and 6 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_79",
+    "question": "A train travels at 194 km/h for 2 hours. How far does it travel?",
+    "answer": "388",
+    "type": "reasoning",
+    "perturbations": [
+      "At 194 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 194 km/h cover in 2 hours?",
+      "Distance covered by a train going 194 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_80",
+    "question": "If 4 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "36",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 4 workers finish in 9 days?",
+      "With 4 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_81",
+    "question": "If 10 apples are shared equally among 3 people, how many apples does each person get?",
+    "answer": "3.33",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 10 apples among 3 people equally. How many per person?",
+      "3 people share 10 apples equally. What is each person's share?",
+      "There are 10 apples and 3 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_82",
+    "question": "A train travels at 122 km/h for 3 hours. How far does it travel?",
+    "answer": "366",
+    "type": "reasoning",
+    "perturbations": [
+      "At 122 km/h for 3 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 122 km/h cover in 3 hours?",
+      "Distance covered by a train going 122 km/h for 3 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_83",
+    "question": "If 16 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "144",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 16 workers finish in 9 days?",
+      "With 16 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_84",
+    "question": "If 18 apples are shared equally among 1 people, how many apples does each person get?",
+    "answer": "18.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 18 apples among 1 people equally. How many per person?",
+      "1 people share 18 apples equally. What is each person's share?",
+      "There are 18 apples and 1 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_85",
+    "question": "A train travels at 117 km/h for 2 hours. How far does it travel?",
+    "answer": "234",
+    "type": "reasoning",
+    "perturbations": [
+      "At 117 km/h for 2 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 117 km/h cover in 2 hours?",
+      "Distance covered by a train going 117 km/h for 2 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_86",
+    "question": "If 5 workers complete a job in 9 days, how many days for 1 worker?",
+    "answer": "45",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 5 workers finish in 9 days?",
+      "With 5 workers finishing in 9 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_87",
+    "question": "If 11 apples are shared equally among 10 people, how many apples does each person get?",
+    "answer": "1.1",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 11 apples among 10 people equally. How many per person?",
+      "10 people share 11 apples equally. What is each person's share?",
+      "There are 11 apples and 10 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_88",
+    "question": "A train travels at 179 km/h for 8 hours. How far does it travel?",
+    "answer": "1432",
+    "type": "reasoning",
+    "perturbations": [
+      "At 179 km/h for 8 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 179 km/h cover in 8 hours?",
+      "Distance covered by a train going 179 km/h for 8 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_89",
+    "question": "If 10 workers complete a job in 1 days, how many days for 1 worker?",
+    "answer": "10",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 10 workers finish in 1 days?",
+      "With 10 workers finishing in 1 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_90",
+    "question": "If 10 apples are shared equally among 1 people, how many apples does each person get?",
+    "answer": "10.0",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 10 apples among 1 people equally. How many per person?",
+      "1 people share 10 apples equally. What is each person's share?",
+      "There are 10 apples and 1 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_91",
+    "question": "A train travels at 91 km/h for 8 hours. How far does it travel?",
+    "answer": "728",
+    "type": "reasoning",
+    "perturbations": [
+      "At 91 km/h for 8 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 91 km/h cover in 8 hours?",
+      "Distance covered by a train going 91 km/h for 8 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_92",
+    "question": "If 19 workers complete a job in 7 days, how many days for 1 worker?",
+    "answer": "133",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 19 workers finish in 7 days?",
+      "With 19 workers finishing in 7 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_93",
+    "question": "If 5 apples are shared equally among 2 people, how many apples does each person get?",
+    "answer": "2.5",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 5 apples among 2 people equally. How many per person?",
+      "2 people share 5 apples equally. What is each person's share?",
+      "There are 5 apples and 2 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_94",
+    "question": "A train travels at 199 km/h for 9 hours. How far does it travel?",
+    "answer": "1791",
+    "type": "reasoning",
+    "perturbations": [
+      "At 199 km/h for 9 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 199 km/h cover in 9 hours?",
+      "Distance covered by a train going 199 km/h for 9 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_95",
+    "question": "If 6 workers complete a job in 7 days, how many days for 1 worker?",
+    "answer": "42",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 6 workers finish in 7 days?",
+      "With 6 workers finishing in 7 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_96",
+    "question": "If 11 apples are shared equally among 6 people, how many apples does each person get?",
+    "answer": "1.83",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 11 apples among 6 people equally. How many per person?",
+      "6 people share 11 apples equally. What is each person's share?",
+      "There are 11 apples and 6 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "reasoning_97",
+    "question": "A train travels at 76 km/h for 6 hours. How far does it travel?",
+    "answer": "456",
+    "type": "reasoning",
+    "perturbations": [
+      "At 76 km/h for 6 hours, what distance does the train cover?",
+      "How many kilometers does a train moving at 76 km/h cover in 6 hours?",
+      "Distance covered by a train going 76 km/h for 6 hours?"
+    ]
+  },
+  {
+    "id": "reasoning_98",
+    "question": "If 19 workers complete a job in 7 days, how many days for 1 worker?",
+    "answer": "133",
+    "type": "reasoning",
+    "perturbations": [
+      "One worker takes how many days if 19 workers finish in 7 days?",
+      "With 19 workers finishing in 7 days, a single worker needs how many days?"
+    ]
+  },
+  {
+    "id": "reasoning_99",
+    "question": "If 7 apples are shared equally among 3 people, how many apples does each person get?",
+    "answer": "2.33",
+    "type": "reasoning",
+    "perturbations": [
+      "Divide 7 apples among 3 people equally. How many per person?",
+      "3 people share 7 apples equally. What is each person's share?",
+      "There are 7 apples and 3 people. Each person gets how many apples?"
+    ]
+  },
+  {
+    "id": "adversarial_0",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_1",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_2",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_3",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_4",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_5",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_6",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_7",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_8",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_9",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_10",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_11",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_12",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_13",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_14",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_15",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_16",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_17",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_18",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_19",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_20",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_21",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_22",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_23",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_24",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_25",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_26",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_27",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_28",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_29",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_30",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_31",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_32",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_33",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_34",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_35",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_36",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_37",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_38",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_39",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_40",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_41",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_42",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_43",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_44",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_45",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_46",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_47",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_48",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_49",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_50",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_51",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_52",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_53",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_54",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_55",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_56",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_57",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_58",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_59",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_60",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_61",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_62",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_63",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_64",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_65",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_66",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_67",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_68",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_69",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_70",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_71",
+    "question": "A person walks north for 1 mile, east for 1 mile, then south for 1 mile. Can they be back where they started?",
+    "answer": "yes, if starting near the north pole",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_72",
+    "question": "Is the following statement true? '2 + 2 = 5 because mathematical axioms can be redefined.'",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_73",
+    "question": "Someone says all AI models are 100% accurate. Is this correct?",
+    "answer": "false",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "adversarial_74",
+    "question": "If a number is greater than 10 and less than 5, what is it?",
+    "answer": "impossible",
+    "type": "adversarial",
+    "perturbations": []
+  },
+  {
+    "id": "robustness_0",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_1",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_2",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_3",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_4",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_5",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_6",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_7",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_8",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_9",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_10",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_11",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_12",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_13",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_14",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_15",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_16",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_17",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_18",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_19",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_20",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_21",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_22",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_23",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_24",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_25",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_26",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_27",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_28",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_29",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_30",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_31",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_32",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_33",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_34",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_35",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_36",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_37",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_38",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_39",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_40",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_41",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_42",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_43",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_44",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_45",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_46",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_47",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_48",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_49",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_50",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_51",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_52",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_53",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_54",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_55",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_56",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_57",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_58",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_59",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_60",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_61",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_62",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_63",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_64",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_65",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_66",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_67",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_68",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_69",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_70",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_71",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  },
+  {
+    "id": "robustness_72",
+    "question": "What is 5 times 6?",
+    "answer": "30",
+    "type": "robustness",
+    "perturbations": [
+      "Compute 5 multiplied by 6.",
+      "5 × 6 equals?",
+      "Multiply five by six."
+    ]
+  },
+  {
+    "id": "robustness_73",
+    "question": "Is Paris the capital of France?",
+    "answer": "yes",
+    "type": "robustness",
+    "perturbations": [
+      "Does France have Paris as its capital?",
+      "Paris is France's capital city - true or false?",
+      "The capital of France is Paris, correct?"
+    ]
+  },
+  {
+    "id": "robustness_74",
+    "question": "How many days are in a week?",
+    "answer": "7",
+    "type": "robustness",
+    "perturbations": [
+      "Count the days in one week.",
+      "A week contains how many days?",
+      "Days per week total?"
+    ]
+  }
+]

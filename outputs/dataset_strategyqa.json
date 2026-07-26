@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "strategyqa_0000",
+    "question": "Is Guitar Hero Beatles inappropriate for a US third grader?",
+    "answer": "no",
+    "facts": "The average age of a US third grader is 8. Guitar Hero is recommended for ages 7 and up. The Beatles were a British rock band with a plethora of radio friendly hits.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the Beatles inappropriate for a third grader?"
+    ]
+  },
+  {
+    "id": "strategyqa_0001",
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "answer": "yes",
+    "facts": "Dragon Ball has 6 TV series, 3 TV specials, and 2 direct to video spinoffs as of 2020. Friday the 13th has 12 movies in the franchise and 1 TV series as of 2020.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Does Dragon Ball shows and pics fall short of Friday 13th number of projects?",
+      "",
+      "Aren't the shows and movies in Dragon Ball up to the number of projects on Friday the 13th?"
+    ]
+  },
+  {
+    "id": "strategyqa_0002",
+    "question": "Was Mercedes-Benz associated with the Nazis?",
+    "answer": "yes",
+    "facts": "During the 1930s, Mercedes-Benz produced the 770 model. The 770 was popular with Nazis, and Adolf Hitler used them as his personal vehicle.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0003",
+    "question": "Could chives be mistaken for grass?",
+    "answer": "yes",
+    "facts": "Chives grow upwards in thin green cylindrical shoots.  Grass grows upwards in thin green flat shoots.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can we confuse goats with grass?"
+    ]
+  },
+  {
+    "id": "strategyqa_0004",
+    "question": "Can a quarter fit inside of a human kidney?",
+    "answer": "yes",
+    "facts": "Kidney stones are hard mineral deposits that can form in the kidneys. The largest kidney stone ever recorded was 13 cm wide. The diameter of a quarter is 2.4 cm.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a quarter fit into a human kidney?"
+    ]
+  },
+  {
+    "id": "strategyqa_0005",
+    "question": "Did University of Pittsburgh founder have great deal in common with Judith Sheindlin?",
+    "answer": "yes",
+    "facts": "Hugh Henry Brackenridge founded University of Pittsburgh in 1787. Judith Sheindlin is a judge, lawyer, and author. Hugh Henry Brackenridge was a writer, lawyer, judge, and Justice of the Supreme Court of Pennsylvania.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the founder of the University of Pittsburgh have much in common with Judith Sheindlin?"
+    ]
+  },
+  {
+    "id": "strategyqa_0006",
+    "question": "Will Ronda Rousey hypothetically defeat X-Men's Colossus in a fight?",
+    "answer": "no",
+    "facts": "Ronda Rousey is a mixed martial artist and wrestler. Ronda Rousey relies on striking moves and submission tactics to dominate her opponents. X-Men's Colossus has the ability to change his appearance. Colossus's mutation allows him to create an organic steel layer, that acts as an impenetrable external shell.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Will Ronda Rousey hypothetically defeat X-Men's Colossus in a battle?",
+      "",
+      "Is Ronda Rousey going to defeat the X-Men Colossus in a fight?"
+    ]
+  },
+  {
+    "id": "strategyqa_0007",
+    "question": "Did Queen Elizabeth The Queen Mother and her daughter share name with Tudor queen?",
+    "answer": "yes",
+    "facts": "Queen Elizabeth the Queen Mother gave birth to Queen Elizabeth II in 1926. The Tudor dynasty had a number of Queens including: Mary I of England, Elizabeth I of England, and Margaret Tudor, Queen of Scots.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Queen Elizabeth the Queen Mother and her daughter share the same name as the Tudor Queen?"
+    ]
+  },
+  {
+    "id": "strategyqa_0008",
+    "question": "Did Neanderthals use arithmetic?",
+    "answer": "no",
+    "facts": "The earliest written records indicate the Egyptians and Babylonians used all the elementary arithmetic operations as early as 2000 BC. Neanderthals are an extinct species or subspecies of archaic humans who lived in Eurasia until about 40,000 years ago.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the Neanderthals use arithmetic?"
+    ]
+  },
+  {
+    "id": "strategyqa_0009",
+    "question": "Does Abdulqawi Yusuf go to the Hague on a typical work day?",
+    "answer": "yes",
+    "facts": "Abdulqawi Yusuf is the current president of the International Court of Justice The International Court of Justice is headquartered in The Hague",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Abdulqawi Yusuf go to The Hague on a typical workday?"
+    ]
+  },
+  {
+    "id": "strategyqa_0010",
+    "question": "Can you buy a fair trade laptop?",
+    "answer": "no",
+    "facts": "Fair trade is a term used with sustainable development focusing on agricultural production Laptops are consumer electronics",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you buy a laptop?"
+    ]
+  },
+  {
+    "id": "strategyqa_0011",
+    "question": "Could the Powepuff Girls make the background to the Azerbaijani flag?",
+    "answer": "yes",
+    "facts": "The national flag of the Republic of Azerbaijan is a horizontal tricolour featuring three equally sized fesses of blue, red, and green Each of the Powerpuff Girls creates a trail of a different color when she flies: Bubbles makes blue, Blossom makes red, and Buttercup makes green.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could the Powepuff Girls make the bottom of the Azerbaijani flag?"
+    ]
+  },
+  {
+    "id": "strategyqa_0012",
+    "question": "Could Palm Beach be held in the palm of your hand?",
+    "answer": "no",
+    "facts": "Palm Beach has a total area of 8.12 square miles. The average palm is around 3 inches in length. There are 63360 inches in a mile.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0013",
+    "question": "Was animal in You're a Good Sport, Charlie Brown, hypothetically a hound?",
+    "answer": "yes",
+    "facts": "A hound is a type of hunting dog used to track prey. Hounds include Basenjis, Dachsunds, and Beagles, among others. Snoopy is the dog in the Charlie Brown movies and books. Snoopy is a Beagle.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "The animal in \"You're a Good Sport\", Charlie Brown, was he hypothetically a dog?"
+    ]
+  },
+  {
+    "id": "strategyqa_0014",
+    "question": "Did Al-Farabi ever meet Mohammed?",
+    "answer": "no",
+    "facts": "Al-Farabi was born in 872 AD. Mohammed died in 832 AD.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Al-Farabi meet with Mohammed?"
+    ]
+  },
+  {
+    "id": "strategyqa_0015",
+    "question": "Can you chew argon?",
+    "answer": "no",
+    "facts": "Chewing is the act of breaking down solid objects with your teeth Under normal conditions, argon exists as a gas",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you chew some argon?"
+    ]
+  },
+  {
+    "id": "strategyqa_0016",
+    "question": "Could Carl Friedrich Gauss speak to someone 100 miles away?",
+    "answer": "no",
+    "facts": "Carl Friedrich Gauss was born in 1777. Speaking to someone 100 miles away requires a telephone. The telephone was invented in 1876.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Carl Friedrich Gauss could talk to someone 100 miles away?"
+    ]
+  },
+  {
+    "id": "strategyqa_0017",
+    "question": "Can The Hobbit be read in its entirety in four minutes?",
+    "answer": "yes",
+    "facts": "The Hobbit is a 95,356 word book by J.R.R. Tolkien. Speed reader Howard Stephen Berg could read at the speed of 25,000 words per minute. Speed reader Maria Teresa Calderon from the Philippines claimed to be able to read 80,000 words per minute with 100% comprehension.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can The Hobbit be read in its entirety in four mins?",
+      "",
+      "Can the Hobbit be read in four minutes?"
+    ]
+  },
+  {
+    "id": "strategyqa_0018",
+    "question": "Is there a popular Disney character made from living ice?",
+    "answer": "yes",
+    "facts": "Olaf is a popular character in Disney's Frozen series. Olaf is a snowman, accidentally enchanted to life by Elsa while she magically builds her ice tower.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is there a popular Disney character made of live ice?"
+    ]
+  },
+  {
+    "id": "strategyqa_0019",
+    "question": "Could you drive a Rowe 550 to the 2008 Summer Olympics?",
+    "answer": "yes",
+    "facts": "The Rowe 550 was a car produced by the Chinese SAIC motor company. The Rowe 550 debuted at the 2007 Shanghai Auto Show. The 2008 Beijing Summer Olympics happened in the Capital of the People's Republic of China.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you drive a Rowe 550 at the 2008 Summer Olympics?"
+    ]
+  },
+  {
+    "id": "strategyqa_0020",
+    "question": "Can Reiki be stored in a bottle?",
+    "answer": "no",
+    "facts": "Reiki practitioners use a technique called palm healing or hands-on healing through which a \"universal energy\" is said to be transferred through the palms of the practitioner to the patient in order to encourage emotional or physical healing. Medications are typically stored in pill bottles.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can Reiki be kept in a bottle?"
+    ]
+  },
+  {
+    "id": "strategyqa_0021",
+    "question": "Is 2018 Ashland, Oregon population inadequate to be a hypothetical military division?",
+    "answer": "no",
+    "facts": "The 2018 population of Ashland Oregon was 21,263 people. The number of soldiers in a military division is between 10,000 and 25,000 people.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the population of Ashland, Oregon in 2018 inadequate to be a hypothetical military division?"
+    ]
+  },
+  {
+    "id": "strategyqa_0022",
+    "question": "Would a goblin shark eat at Crossroads Kitchen?",
+    "answer": "no",
+    "facts": "Goblin sharks are carnivores that subsist on other fish, cephalopods and crustaceans Crossroads Kitchen is a vegan restaurant in Los Angeles Vegans do not consume any animal products",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Would a hobgoblin shark eat at Crossroads Kitchen?",
+      "",
+      "Would a goblin shark eat in the kitchen at Crossroads?"
+    ]
+  },
+  {
+    "id": "strategyqa_0023",
+    "question": "Did children read Harry Potter and the Philosopher's Stone during the Albanian Civil War?",
+    "answer": "yes",
+    "facts": "Harry Potter and the Philosopher's Stone was a 1997 children's fantasy book. The Albanian Civil War, also called the Albanian Civil Unrest, happened in 1997.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0024",
+    "question": "Is dyslexia the most common intellectual disability in US?",
+    "answer": "no",
+    "facts": "An intellectual disability is reflected in below-average IQ and a lack of skills needed for daily living. Learning disabilities are weaknesses in certain academic skills. usually, Reading, writing and math. Dyslexia is characterized by difficulties with accurate and/or fluent word recognition and by poor spelling and decoding abilities. Thomas Jefferson, George Washington, and John F. Kennedy were successful presidents while being dyslexic.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is dyslexia the most common intellectual disability in the United States?"
+    ]
+  },
+  {
+    "id": "strategyqa_0025",
+    "question": "Are all types of pottery safe to cook in?",
+    "answer": "no",
+    "facts": "Some types of pottery glaze are unsafe for contact with food meant for human consumption.  Antique pottery pieces may have hazardous levels of lead in them.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are all kinds of pottery safe to cook?"
+    ]
+  },
+  {
+    "id": "strategyqa_0026",
+    "question": "Is Great Pyramid of Giza the last wonder of its kind?",
+    "answer": "yes",
+    "facts": "The Great Pyramid of Giza is classified as one of the Seven Wonders of the Ancient World. Five of the ancient wonders were destroyed, and a sixth (the Hanging Gardens of Babylon) may not have existed. The Great Pyramid of Giza is largely intact as of 2020.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the Great Pyramid of Giza the last wonder of its kind?"
+    ]
+  },
+  {
+    "id": "strategyqa_0027",
+    "question": "Can Simon Cowell vote for the next Supreme Court judge?",
+    "answer": "no",
+    "facts": "The Supreme Court is the highest court in the USA. Simon Cowell is a British talent competition judge. Members of the Supreme Court are appointed, rather than elected.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can Simon Cowell ballot for the next Supreme Court judge?",
+      "",
+      "Can Simon Cowell vote for the next Supreme Court justice?"
+    ]
+  },
+  {
+    "id": "strategyqa_0028",
+    "question": "Does Amtrak operate four wheel vehicles?",
+    "answer": "yes",
+    "facts": "Amtrak is a transportation service. Amtrak transports people with trains and buses. A bus is a four wheel vehicle. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Amtrak operate four-wheelers?"
+    ]
+  },
+  {
+    "id": "strategyqa_0029",
+    "question": "Are Durian fruits an olfactory delight?",
+    "answer": "no",
+    "facts": "Durian is a plant type that produces several kinds of fruit. Olfactory refers to the human sense of smell. Pleasant smells according to polls include flowers and sweet foods. Durian fruits have been banned in Singapore due to its overwhelming smell.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the lasting fruits a pleasant smell?"
+    ]
+  },
+  {
+    "id": "strategyqa_0030",
+    "question": "Does the land in close proximity to beaver dams suffer?",
+    "answer": "yes",
+    "facts": "Beaver dams often lead to flooding in the areas around them. Flooding can lead to loosening of the soil. Loosened soil can cause trees to fall over.  Flooding can lead to soil erosion.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the lands near the beaver dams suffering?"
+    ]
+  },
+  {
+    "id": "strategyqa_0031",
+    "question": "Did any country in Portuguese Colonial War share Switzerlands role in WWII?",
+    "answer": "yes",
+    "facts": "The Portuguese Colonial War was between Portugal and several groups including People's Movement for Liberation of Angola. Switzerland remained neutral in World War II and did not get involved. Portugal stayed out of world affairs during World War II.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did a country of the Portuguese colonial war share Switzerland's role in World War II?"
+    ]
+  },
+  {
+    "id": "strategyqa_0032",
+    "question": "Do you need both hot and cold water to peel a tomato?",
+    "answer": "yes",
+    "facts": "The first step in removing the skin from at tomato is to quickly submerge it in boiling water. The second step in removing the skin from a tomato is to take the tomatoes out of the boiling water and put them into ice water.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do you need hot and cold water to paint a tomato?"
+    ]
+  },
+  {
+    "id": "strategyqa_0033",
+    "question": "Would you take a photo of a Saltwater crocodile in Memphis?",
+    "answer": "no",
+    "facts": "The saltwater crocodile is native to saltwater habitats and brackish wetlands from India's east coast across Southeast Asia and the Sundaic region to northern Australia and Micronesia. Memphis is a city in the United States.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "You want to take a picture of a saltwater crocodile in Memphis?"
+    ]
+  },
+  {
+    "id": "strategyqa_0034",
+    "question": "Does Elizabeth II reign over the Balearic Islands?",
+    "answer": "no",
+    "facts": "Queen Elizabeth II is the monarch of the United Kingdom and its commonwealth The Balearic Islands are part of the country of Spain",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Elizabeth II the king of the Balearic Islands?"
+    ]
+  },
+  {
+    "id": "strategyqa_0035",
+    "question": "Would Michael J Fox qualify for the Army Rangers?",
+    "answer": "no",
+    "facts": "Michael J Fox has Parkinson's disease.  Parkinson's disease is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. To qualify for the Army Rangers,  you must complete a 12-mile march with a 35-pound rucksack and weapon in less than three hours.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Michael J. Fox would qualify for the Army Rangers?"
+    ]
+  },
+  {
+    "id": "strategyqa_0036",
+    "question": "Walt Disney dominated his amusement park peers at Academy Awards?",
+    "answer": "yes",
+    "facts": "Walt Disney won a total of 26 Academy Awards. The founder of Six Flags, Angus G Wynne, had 0 academy awards. The founder of Knott's Berry Farm, Walter Knott, had 0 academy awards.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Walt Disney dominated his peers' theme park at the Oscars?"
+    ]
+  },
+  {
+    "id": "strategyqa_0037",
+    "question": "Were all of Heracles's children present for his funeral pyre?",
+    "answer": "no",
+    "facts": "Heracles killed his children by his first wife Megara. They were not returned to life prior to his death.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Were all the children of Hercules present at his funeral pyre?"
+    ]
+  },
+  {
+    "id": "strategyqa_0038",
+    "question": "Would Snowdon mountain be a piece of cake for Tenzing Norgay?",
+    "answer": "yes",
+    "facts": "Tenzing Norgay was a mountaineer that climbed Mount Everest in 1953. Snowdon Mountain has a peak of 3,560 feet. Mount Everest has a peak of over 29,000 feet.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Snowdon Mountain a cake for Tenzing Norgay?"
+    ]
+  },
+  {
+    "id": "strategyqa_0039",
+    "question": "Is Steve Carell's character on The Office portrayed as one with tremendous leadership skills?",
+    "answer": "no",
+    "facts": "Steve Carell plays Michael Scott on The Office. Michael Scott is a clueless and naive character that is not meant to be seen as effective in his job as General Manager.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is Steve Carell's character on The Office portrayed as one with tremendous leadership attainments?",
+      "",
+      "Is the character of Steve Carell in The Office portrayed as having enormous leadership skills?"
+    ]
+  },
+  {
+    "id": "strategyqa_0040",
+    "question": "In American society, will a bachelor's degree often include a leap year?",
+    "answer": "yes",
+    "facts": "Leap years occur every four years. In American society, a bachelor's degree takes about four years.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "In American society, will a bachelor's degree often include a bachelor's degree?"
+    ]
+  },
+  {
+    "id": "strategyqa_0041",
+    "question": "Could a monolingual American read Lenovo's native name?",
+    "answer": "no",
+    "facts": "Lenovo's native name is 联想集团有限公司. Someone who is monolingual only speaks one language. The typical monolingual American would only be able to read English. Someone who can only read English is therefore unable to read Chinese.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could a monolingual American read the name Lenovo?"
+    ]
+  },
+  {
+    "id": "strategyqa_0042",
+    "question": "Did the Beatles write any music in the Disco genre?",
+    "answer": "no",
+    "facts": "The Beatles were active from 1960 until 1969. Disco began to appear around 1972.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the Beatles write disco music?"
+    ]
+  },
+  {
+    "id": "strategyqa_0043",
+    "question": "Was Oscar Wilde's treatment under the law be considered fair in the US now?",
+    "answer": "no",
+    "facts": "Oscar Wilde was imprisoned for sexual indecency that amounted to having sexual relations with another man. In the United States, being gay is not a punishable offense. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Was Oscar Wilde's treatment under the law considered fair in the United States now?"
+    ]
+  },
+  {
+    "id": "strategyqa_0044",
+    "question": "Did Donatello use a smartphone?",
+    "answer": "no",
+    "facts": "Donatello died on December 13, 1466. The first smartphone did not come out until 1992.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0045",
+    "question": "Would a cattle farmer be useful to a drum maker?",
+    "answer": "yes",
+    "facts": "Cattle are often slaughtered for meat and other products, like leather. Drums are often made with leather.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Would a oxens farmer be useful to a drum maker?",
+      "",
+      "Would a cattle rancher be useful to a drummer?"
+    ]
+  },
+  {
+    "id": "strategyqa_0046",
+    "question": "Tata Hexa can accomodate every Spice Girl?",
+    "answer": "yes",
+    "facts": "The Spice Girls is a five woman musical group from Britain. The Tata Hexa is a car with 6 and 7 seat capacities.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can Tata Hexa have all the Spice Girls?"
+    ]
+  },
+  {
+    "id": "strategyqa_0047",
+    "question": "Was Eve involved in an incestuous relationship?",
+    "answer": "yes",
+    "facts": "God made Eve from a bone he removed from Adam. Since Eve was made from Adam, they would have had similar DNA and been considered twins or at least siblings. As the only humans at the time, they ended up starting a family together.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Was Eve involved in an unfaithful relationship?"
+    ]
+  },
+  {
+    "id": "strategyqa_0048",
+    "question": "Can a grey seal swim in the same water as the subject of Moby Dick?",
+    "answer": "yes",
+    "facts": "The range of gray seals is limited to parts of the northern hemisphere bordered by the Atlantic ocean The subject of Moby Dick was a sperm whale Sperm whales can be found in the north Atlantic, in addition to most other bodies of water on earth.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can a gray seal swim in the same water as the subject of Moby Dick?",
+      "",
+      "Can a gray seal swim in the same water as the subject of Moby Dick ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0049",
+    "question": "Are aggressive bumblebees suicidal?",
+    "answer": "no",
+    "facts": "Bees with barbed stingers lose the barb after attacking a victim and die soon afterwards Bumblebees do not have barbed stingers and can sting multiple times without dying",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are aggressive bees suicidal?"
+    ]
+  },
+  {
+    "id": "strategyqa_0050",
+    "question": "Do some home remedies result in your skin color turning blue?",
+    "answer": "yes",
+    "facts": "Colloidal silver is a popular alternative treatment/home remedy that is used by some people. Ingestion of colloidal silver in high amounts can tint the skin blue.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Do some home remedies result in your skin colour turning blue?",
+      "",
+      "Do some home remedies make your skin blue?"
+    ]
+  },
+  {
+    "id": "strategyqa_0051",
+    "question": "Has the creator of Futurama lived in multiple centuries?",
+    "answer": "yes",
+    "facts": "The creator of Futurama is Matt Groening. Matt Groening was born in 1954. The 20th (twentieth) century was a century that began on January 1, 1901 and ended on December 31, 2000. The 21st (twenty-first) century began on January 1, 2001, and will end on December 31, 2100.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the creator of Futurama live for centuries?"
+    ]
+  },
+  {
+    "id": "strategyqa_0052",
+    "question": "Should children be kept from \"special brownies\"?",
+    "answer": "yes",
+    "facts": "\"Special brownies\" typically refer to brownies that have been laced with THC. THC is an active component of cannabis, a drug meant for adults only.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Should children be protected from \"special brownies\"?"
+    ]
+  },
+  {
+    "id": "strategyqa_0053",
+    "question": "Do the James Bond and Doctor Who series have a similarity in format?",
+    "answer": "yes",
+    "facts": "The character of James Bond has been played by numerous actors.  The character of The Doctor from Doctor Who has been played by many actors.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Do the James Bond and Doctor Who series have a similarity in formatting?",
+      "",
+      "Do the James Bond and Doctor Who series have a similar format?"
+    ]
+  },
+  {
+    "id": "strategyqa_0054",
+    "question": "Did Mike Tyson do something very different than McGruff's slogan to Evander Holyfield in 1997?",
+    "answer": "no",
+    "facts": "McGruff was an animated dog spokesman for the National Crime Prevention Council. McGruff's slogan was, \"Take a bite out of crime.\" Mike Tyson was disqualified in a 1997 boxing bout against Evander Holyfield for taking a bite out of his ear.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Mike Tyson do anything very different from McGruff's slogan at Evander Holyfield in 1997?"
+    ]
+  },
+  {
+    "id": "strategyqa_0055",
+    "question": "Did John Kerry run in the 2010 United Kingdom general election?",
+    "answer": "no",
+    "facts": "John Kerry is an American citizen and politician Only citizens of the UK, Ireland or a Commonwealth nation are eligible to run in the United Kingdom general elections",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did John Kerry run in the 2010 UK general election?"
+    ]
+  },
+  {
+    "id": "strategyqa_0056",
+    "question": "Does The Doctor keep his ship in his childhood home?",
+    "answer": "no",
+    "facts": "The Doctor grew up on a planet called Gallifrey. The planet Gallifrey was destroyed in a time war. The Doctor's ship doesn't require docking.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does the Doctor keep his ship in his childhood home?"
+    ]
+  },
+  {
+    "id": "strategyqa_0057",
+    "question": "Does store bought milk have cream at the top?",
+    "answer": "no",
+    "facts": "When milk is non-homogenized, the cream will separate and rise to the top. Most store bought milk is homogenized. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Does shop bought milk have cream at the top?",
+      "",
+      "Does the milk you bought at the store have cream on top?"
+    ]
+  },
+  {
+    "id": "strategyqa_0058",
+    "question": "Could John Key issue an executive order in the USA?",
+    "answer": "no",
+    "facts": "An executive order is a means of issuing federal directives in the United States, used by the president of the United States. To serve as president of the United States, one must be a natural-born citizen of the United States. John Key was born in Auckland, New Zealand.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could John Key issue a decree to the United States?"
+    ]
+  },
+  {
+    "id": "strategyqa_0059",
+    "question": "Are you likely to find a crucifix in Karachi?",
+    "answer": "no",
+    "facts": "The crucifix is a symbol of Christianity The vast majority of Pakistan's population is Muslim",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "You'll probably find a crucifix in Karachi?"
+    ]
+  },
+  {
+    "id": "strategyqa_0060",
+    "question": "Do the Egyptian pyramids look the same from outside as they did when new?",
+    "answer": "no",
+    "facts": "When originally built, the Great Pyramids had a thin surface of limestone covering the bricks, making them shine in the sun. Over the centuries, the limestone layer has been removed by thieves and erosion, exposing the more common stone bricks underneath.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the Egyptian pyramids as modern as they were when they were new?"
+    ]
+  },
+  {
+    "id": "strategyqa_0061",
+    "question": "Would a Gray Whale fit easily in an above ground pool?",
+    "answer": "no",
+    "facts": "Gray whales are, on average, 39ft long. The average above ground pool is 10-33ft in diameter. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Would a Gray Whale fit easy in an above ground pool?",
+      "",
+      "Could a gray whale easily fit into a pool above the ground?"
+    ]
+  },
+  {
+    "id": "strategyqa_0062",
+    "question": "Was Harry Potter a better investment than The Matrix for Warner Bros.?",
+    "answer": "yes",
+    "facts": "Warner Bros. distributes several movie franchises including The Matrix, Harry Potter, and The Dark Knight. The Matrix had 2 sequels. Harry Potter had 7 sequels and several spin-offs. Harry Potter and the Deathly Hallows – Part 2 is Warner Bros. highest grossing film worldwide with a box office gross of $1,342,932,398.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Was Harry Potter a better investment than The Matrix for Warner Bros?"
+    ]
+  },
+  {
+    "id": "strategyqa_0063",
+    "question": "Will Elijah Cummings vote for Joe Biden in the next presidential elections?",
+    "answer": "no",
+    "facts": "The next presidential elections will take place in November of 2020 Elijah Cummings passed away in October of 2019",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Will Elijah Cummings ballot for Joe Biden in the next presidential elections?",
+      "",
+      "Will Elijah Cummings vote for Joe Biden in the next presidential election?"
+    ]
+  },
+  {
+    "id": "strategyqa_0064",
+    "question": "Is most store bought rice pudding made with brown rice?",
+    "answer": "no",
+    "facts": "Brown rice is more expensive than white rice.  Most store bought rice pudding is white in color. Brown rice, when cooked, is light brown in color.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is most shop bought rice pudding made with brown rice?",
+      "",
+      "Most shops buy rice pudding with brown rice?"
+    ]
+  },
+  {
+    "id": "strategyqa_0065",
+    "question": "Would Kelly Clarkson's voice shake glass?",
+    "answer": "yes",
+    "facts": "Glass vibrates at its resonant frequency which is around a middle C note. Kelly Clarkson has an impressive three octave vocal range. Kelly Clarkson's Never Enough is in the key of A-flat. A-flat is above middle C in terms of notes.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Kelly Clarkson's voice would shake the glass?"
+    ]
+  },
+  {
+    "id": "strategyqa_0066",
+    "question": "Could a cow produce Harvey Milk?",
+    "answer": "no",
+    "facts": "Harvey Milk was a human being. Cows are not human beings. Only human beings can produce offspring which are also human beings.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Could a moo-cow produce Harvey Milk?",
+      "",
+      "Can a cow produce milk, Harvey?"
+    ]
+  },
+  {
+    "id": "strategyqa_0067",
+    "question": "Could a hamster experience two leap years?",
+    "answer": "no",
+    "facts": "Pet hamsters typically have a maximum lifespan of three years. Leap years are typically separated by four years.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a hamster live two years without a hitch?"
+    ]
+  },
+  {
+    "id": "strategyqa_0068",
+    "question": "Can you go water skiing on Venus?",
+    "answer": "no",
+    "facts": "Water skiing requires sufficient area on a smooth stretch of water, one or two skis, a tow boat with tow rope, two or three people, and a personal flotation device. Venus has a mean surface temperature of 863 °F. There may have been substantial quantities of liquid water on the surface of Venus at one point, but after a period of 600 million to several billion years, a runaway greenhouse effect was caused by the evaporation of that original water.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you go skiing on Venus?"
+    ]
+  },
+  {
+    "id": "strategyqa_0069",
+    "question": "Is Fiat Chrysler gaining a new overall corporate identity?",
+    "answer": "yes",
+    "facts": "The company is renaming itself Stellantis following the completion of its merger. There are 14 automobile brands owned by the company, which will be keeping their names and logos.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Fiat Chrysler gaining a new corporate identity?"
+    ]
+  },
+  {
+    "id": "strategyqa_0070",
+    "question": "Does Jason have anything in common with Dr. Disrespect?",
+    "answer": "yes",
+    "facts": "Jason cheated on Medea with Creusa Dr. Disrespect cheated on his wife with another woman",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Jason have anything in common with Dr."
+    ]
+  },
+  {
+    "id": "strategyqa_0071",
+    "question": "Would Swiss Guard defeat the Marines?",
+    "answer": "no",
+    "facts": "The Swiss Guard is the military of Vatican City and consists of 135 members. There are 186,000 active duty Marines as of 2017.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would the Swiss Guard beat the Marines ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0072",
+    "question": "When Hugh Jackman was a teacher, would he have taught The Great Gatsby?",
+    "answer": "no",
+    "facts": "The Great Gatsby is often taught in high school English classes.  Hugh Jackman worked as a school gym teacher before he was an actor.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "When Hugh Jackman was a teacher, would he have learned The Great Gatsby?",
+      "Would he have taught The Great Gatsby, when Hugh Jackman was a teacher?",
+      "When Hugh Jackman was a professor, would he have taught the Great Gatsby?"
+    ]
+  },
+  {
+    "id": "strategyqa_0073",
+    "question": "Can crane slamdunk?",
+    "answer": "no",
+    "facts": "Crane are a type of bird.  Slamdunking is a basketball maneuver in which the player puts the basketball in the basket with one or two hands above the rim. Birds don't have hands.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a crane crash?"
+    ]
+  },
+  {
+    "id": "strategyqa_0074",
+    "question": "Have any murderers outlasted Kane's Royal Rumble record?",
+    "answer": "yes",
+    "facts": "The longest Kane lasted in the Royal Rumble was 53:46 in 2001. Chris Benoit lasted over an hour in the 2004 Royal Rumble. Chris Benoit murdered his own wife and son in 2007.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did any of the killers survive Kane's record?"
+    ]
+  },
+  {
+    "id": "strategyqa_0075",
+    "question": "Is Freya a combination of Athena and Aphrodite?",
+    "answer": "yes",
+    "facts": "Athena was the Greek goddess of war. Aphrodite was the Greek goddess of love. Freya was the Norse goddess of war, love, and fertility.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Freya is a combination of Athena and Aphrodite?"
+    ]
+  },
+  {
+    "id": "strategyqa_0076",
+    "question": "Did Monty Python write the Who's on First sketch?",
+    "answer": "no",
+    "facts": "Who's on First debuted in 1945. Monty Python's first show was in 1969.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Monty Python write Who's on First?"
+    ]
+  },
+  {
+    "id": "strategyqa_0077",
+    "question": "Was the tenth Amendment to the Constitution written using Pitman shorthand?",
+    "answer": "no",
+    "facts": "Pitman shorthand was invented in 1837. The tenth Amendment to the Constitution was added in 1791.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Was the tenth Amendment to the Constitution written employing Pitman shorthand?",
+      "",
+      "Was the Tenth Amendment written using the abbreviation Pitman?"
+    ]
+  },
+  {
+    "id": "strategyqa_0078",
+    "question": "Does Woody Allen await the Second Coming?",
+    "answer": "no",
+    "facts": "The Second Coming refers to Jesus Christ returning to earth Christians and Muslims believe in Jesus Christ Woody Allen is Jewish",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Woody Allen waiting for the second coming?"
+    ]
+  },
+  {
+    "id": "strategyqa_0079",
+    "question": "Did Spiderman fight against Falcon in the MCU?",
+    "answer": "yes",
+    "facts": "In Captain America: Civil War, Iron Man and Captain America became enemies following a disagreement. Iron Man summoned Spiderman to fight with his team of still-loyal Avengers. Falcon was one of Captain America's best friends and supported the Captain in the conflict. Therefore, Spiderman and Falcon were on opposite teams during the inter-Avenger battle in the movie.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Did Spiderman struggle against Falcon in the MCU?",
+      "",
+      "Did Spiderman fight Falcon in the MCU?"
+    ]
+  },
+  {
+    "id": "strategyqa_0080",
+    "question": "Was the Eiffel tower used as a symbol of the French Revolution?",
+    "answer": "no",
+    "facts": "The French Revolution took place 1789-1799. The Eiffel Tower was built a century later in 1888.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Was the Eiffel tower employed as a symbol of the French Revolution?",
+      "",
+      "Was the Eiffel Tower used as a symbol of the French Revolution?"
+    ]
+  },
+  {
+    "id": "strategyqa_0081",
+    "question": "Could Durian cause someone's stomach to feel unwell?",
+    "answer": "yes",
+    "facts": "Durian has a pungent odor that many people describe as being similar to feet and onions. Unpleasant smells can make people feel nauseous. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Could Durian cause someone's tummy to feel unwell?",
+      "",
+      "Could Durian hurt someone's stomach?"
+    ]
+  },
+  {
+    "id": "strategyqa_0082",
+    "question": "Do Elementary School students typically need graphing calculators?",
+    "answer": "no",
+    "facts": "Elementary schools typically teach K-5th grade. 5th Graders are reaching a point in their education where they are just beginning to understand decimals and fractions. Graphing calculators are used for higher level math work including complex equations and functions. Students are usually introduced to functions in late middle or high school math.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Do Elementary School pupils typically need graphing calculators?",
+      "",
+      "Do elementary school students usually need graphics calculators?"
+    ]
+  },
+  {
+    "id": "strategyqa_0083",
+    "question": "Would someone on antidepressants need to be cautious of some citrus fruits?",
+    "answer": "yes",
+    "facts": "Grapefruit is a citrus fruit. Grapefruit can cause some medications to reach unintentionally high levels in the body.  SSRI's are a medication type that can be affected by grapefruit.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Should someone taking antidepressants be cautious about certain citrus fruits?"
+    ]
+  },
+  {
+    "id": "strategyqa_0084",
+    "question": "Do more anchovy live in colder temperature waters than warmer?",
+    "answer": "no",
+    "facts": "Anchovy are a type of small fish. Anchovy are concentrated in the temperate waters of the Atlantic, Indian, and Pacific Oceans. Anchovy are rarely found in colder waters.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do anchovies live longer in colder than warmer waters?"
+    ]
+  },
+  {
+    "id": "strategyqa_0085",
+    "question": "Could the Toyota Stadium sit a tenth of the population of Gotheburg?",
+    "answer": "no",
+    "facts": "The Toyota Stadium seats 45,000 people Gothenburg has a population of over five hundred thousand",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could the Toyota Stadium house a tenth of the population of Gotheburg?"
+    ]
+  },
+  {
+    "id": "strategyqa_0086",
+    "question": "Has Don King killed more people than Charles Manson did with his own hands in 1971?",
+    "answer": "yes",
+    "facts": "Charles Manson is famous for a series of murders in 1971. Charles Manson's cult was responsible for seven deaths in 1971 but he was not present during the murders. Boxing promoter Don King has been charged with killing two people in incidents 13 years apart and settled out of court..",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Don King kill more people than Charles Manson in 1971?"
+    ]
+  },
+  {
+    "id": "strategyqa_0087",
+    "question": "Do you often hear Marco Polo's name shouted near water?",
+    "answer": "yes",
+    "facts": "\"Marco Polo\" is a popular game among children and adults played while swimming. To play \"Marco Polo\", one person shouts \"Marco\" and the other shouts \"Polo\" while avoiding being tagged.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do you often hear the name Marco Polo shouting near the water?"
+    ]
+  },
+  {
+    "id": "strategyqa_0088",
+    "question": "Is myocardial infarction a brain problem?",
+    "answer": "no",
+    "facts": "Myocardial infarction is a problem in the heart. The equivalent in the brain would be similar to a stroke.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is a myocardial infarction a brain problem ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0089",
+    "question": "Do American teams in National Hockey League outnumber Canadian teams?",
+    "answer": "yes",
+    "facts": "The National Hockey League is the premiere North American hockey league. The National Hockey League has 7 Canadian teams. The National Hockey League has 24 teams from the United States.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the American teams in the National Hockey League more numerous than the Canadian teams?"
+    ]
+  },
+  {
+    "id": "strategyqa_0090",
+    "question": "Can fish get Tonsillitis?",
+    "answer": "no",
+    "facts": "Tonsils are a pair of soft tissue masses located at the rear of the throat Tonsillitis is the inflammation of tonsils. Fish do not have tonsils. Tonsils are only found in mammals. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can fish have tonsils?"
+    ]
+  },
+  {
+    "id": "strategyqa_0091",
+    "question": "Has Ivan the Terrible flown to Europe?",
+    "answer": "no",
+    "facts": "Ivan the Terrible was the 1st Tsar of Russia. Ivan the Terrible died in 1584. The first confirmed person to fly was Jean Francois Pilatre de Rozier in 1783.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Ivan the Terrible steal from Europe?"
+    ]
+  },
+  {
+    "id": "strategyqa_0092",
+    "question": "Would Ringo Starr avoid the pot roast at a restaurant?",
+    "answer": "yes",
+    "facts": "Ringo Starr is a vegetarian. Vegetarianism is the practice of abstaining from the consumption of meat. Pot roast is a braised beef dish made by browning a roast-sized piece of beef before slow cooking the meat in a covered dish, sometimes with vegetables, in or over liquid.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would Ringo Starr avoid a roast at a restaurant?"
+    ]
+  },
+  {
+    "id": "strategyqa_0093",
+    "question": "Is Nine Inch Nails's lead singer associated with David Lynch?",
+    "answer": "yes",
+    "facts": "David Lynch is a director that created the television show Twin Peaks. Trent Reznor is the lead singer of Nine Inch Nails. Trent Reznor appeared on Twin Peaks: The Return in 2017. David Lynch directed the music video for Nine Inch Nail's Came Back Haunted.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the singer of Nine Inch Nails associated with David Lynch?"
+    ]
+  },
+  {
+    "id": "strategyqa_0094",
+    "question": "Will Futurama surpass the number of episodes of The Simpsons by the end of 2020?",
+    "answer": "no",
+    "facts": "Futurama was cancelled in 2013. The Simpsons is still creating new episodes as of May 2020. Futurama aired 140 total episodes. The Simpsons has aired over 600 episodes.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0095",
+    "question": "Will the torso be safe from blows to the largest and smallest bones in body?",
+    "answer": "yes",
+    "facts": "The three smallest bone in the body are malleus, incus, and stapes. Malleus, incus, and stapes are located in the ear. The femur is the largest bone in the body. The femur is located in the leg. The torso is located in the center of the body.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Will the trunk be safe from blows to the largest and smallest bones in body?",
+      "",
+      "Will the torso be protected from the greatest and smallest bones of the body?"
+    ]
+  },
+  {
+    "id": "strategyqa_0096",
+    "question": "Does Family Guy take place on the American West Coast?",
+    "answer": "no",
+    "facts": "Family Guy takes place in the fictional town of Quahog, Rhode Island. Rhode Island is a state on the American East Coast.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Family Guy is set on the West Coast?"
+    ]
+  },
+  {
+    "id": "strategyqa_0097",
+    "question": "Can a goat be used for one of the ingredients in French toast?",
+    "answer": "yes",
+    "facts": "French toast is made from bread, eggs, milk, and cinnamon. Goats are able to produce milk, similar to cows. Goats milk is used in a variety of cheeses and milks sold in super markets.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can a goat be employed for one of the ingredients in French toast?",
+      "",
+      "Can a goat be used for any of the ingredients of French fried dough?"
+    ]
+  },
+  {
+    "id": "strategyqa_0098",
+    "question": "Is the Matrix a standalone movie?",
+    "answer": "no",
+    "facts": "The Matrix ends in a cliffhanger. The story is then resolved in two sequels, making a trilogy. There are also supplemental works adding to the story, such as a video game and the Animatrix.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "The Matrix is an independent film?"
+    ]
+  },
+  {
+    "id": "strategyqa_0099",
+    "question": "Does the Pixar film Brave feature Scottish people?",
+    "answer": "yes",
+    "facts": "The movie Brave is set in the Scottish highlands. Merida, the main character of Brave, is a Princess of Medieval Scotland ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "The Pixar film Brave is about Scots?"
+    ]
+  },
+  {
+    "id": "strategyqa_0100",
+    "question": "Will a Holstein cow and the Liberty Bell balance out a giant scale?",
+    "answer": "no",
+    "facts": "The Liberty Bell weighs 2,080 pounds. A mature Holstein cow weighs around 1,500 pounds.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Will a Holstein moo-cow and the Liberty Bell balance out a giant scale?",
+      "",
+      "Will a Holstein cow and the Glory of Freedom balance a giant scale?"
+    ]
+  },
+  {
+    "id": "strategyqa_0101",
+    "question": "Can a student from Smithtown's Cleary School understand the speech of a French person?",
+    "answer": "no",
+    "facts": "French is a romance language that originated in France. The Cleary School in Smithtown New York is a school for the deaf.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a student at Cleary School in Smithtown understand the language of a French person?"
+    ]
+  },
+  {
+    "id": "strategyqa_0102",
+    "question": "Did Methuselah live at least 800 years as long as Sarah?",
+    "answer": "yes",
+    "facts": "The biblical Sarah lived to the age of 127. The biblical Methuselah lived to 969 years of age.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Did Methuselah live at least 800 years equally long as Sarah?",
+      "",
+      "Did Methuselah live for at least 800 years like Sarah?"
+    ]
+  },
+  {
+    "id": "strategyqa_0103",
+    "question": "Could one Amazon share ever buy twenty year Netflix subscription?",
+    "answer": "yes",
+    "facts": "Amazon stock has reached as high as $2,500 a share as of June 2020. The basic Netflix subscription package costs $8.99 a month as of 2020.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can an Amazon stock buy a 20-year Netflix subscription?"
+    ]
+  },
+  {
+    "id": "strategyqa_0104",
+    "question": "Do giraffes require special facilities at zoos?",
+    "answer": "yes",
+    "facts": "Giraffes are much taller than other land animals. Giraffe shelters at zoos must be built larger than shelters for other animals to accommodate their height.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Do giraffes necessitate special facilities at zoos?",
+      "",
+      "Do giraffes need special services in zoos?"
+    ]
+  },
+  {
+    "id": "strategyqa_0105",
+    "question": "Did US President during Spanish-American War suffer similar demise to Abraham Lincoln?",
+    "answer": "yes",
+    "facts": "The Spanish-American War lasted from April 21, 1898 to August 13, 1898. William McKinley was President of the United States from March 4, 1897 to September 14, 1901. William McKinley died from gun related injuries after an assassination attempt. Abraham Lincoln died shortly after being shot by John Wilkes Booth.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the American president suffer a death similar to that of Abraham Lincoln during the Spanish-American War?"
+    ]
+  },
+  {
+    "id": "strategyqa_0106",
+    "question": "Were plants crucial for The King of Rock'n Roll's snack with bananas?",
+    "answer": "yes",
+    "facts": "Elvis Presley is known as The King of Rock'n Roll. Elvis Presley loved to eat peanut butter and bananas. Bananas come from banana plants. Peanut butter comes from peanuts, which come from peanut plants.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Were plants important for The King of Rock'n Roll's snack with bananas?",
+      "",
+      "Were plants crucial to the King of Rock 'n Roll's bananas snack?"
+    ]
+  },
+  {
+    "id": "strategyqa_0107",
+    "question": "Was the father of social security system serving in the white house during the Panic of 1907?",
+    "answer": "no",
+    "facts": "The father of social security system is Franklin D. Roosevelt.  Franklin D. Roosevelt was in Columbia Law School in 1907. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the father of the social security system serve in the White House during the Panic of 1907?"
+    ]
+  },
+  {
+    "id": "strategyqa_0108",
+    "question": "Could you watch Naruto and Puzzle Place on the same channel?",
+    "answer": "no",
+    "facts": "Puzzle Place aired on PBS between 1995 and 1998. Naruto aired on Cartoon Network in 2005.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0109",
+    "question": "Is lunch on the beach a good activity to spot the full circle of a rainbow?",
+    "answer": "no",
+    "facts": "The full circle of a rainbow cannot usually be seen from ground level Sometimes the full circle of a rainbow can be seen from a high building or aircraft You can see more of a rainbow the closer to the horizon the sun is Lunch occurs at midday when the sun is likely high in the sky",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is a beach lunch a good activity to see the full circle of a rainbow?"
+    ]
+  },
+  {
+    "id": "strategyqa_0110",
+    "question": "Would a Catholic priest commend someone's pride?",
+    "answer": "no",
+    "facts": "Adherents to Catholicism subscribe to the notion of the '7 deadly sins'. Pride is one of the 7 deadly sins.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would a Catholic priest praise someone's pride?"
+    ]
+  },
+  {
+    "id": "strategyqa_0111",
+    "question": "Are Aldi's foods discounted due to being out of date?",
+    "answer": "no",
+    "facts": "Aldi cuts costs by charging for bags, buying in bulk, and by avoiding brand name items.  Aldi removes spoiled or expired foods from their shelves immediately upon identification.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are Aldi's foods reduced because they're outdated?"
+    ]
+  },
+  {
+    "id": "strategyqa_0112",
+    "question": "Could every citizen of Samoa send a letter to a unique JPMorgan Chase employee?",
+    "answer": "yes",
+    "facts": "JPMorgan Chase had a total of 256,981 employees in the fourth quarter of 2019. The estimated population of Samoa as of July 1st, 2019 is 200,874.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could every citizen of Samoa send a letter to a single JPMorgan Chase employee?"
+    ]
+  },
+  {
+    "id": "strategyqa_0113",
+    "question": "Is number of different US President's in 1800s a lucky number in Hong Kong?",
+    "answer": "no",
+    "facts": "There were 24 different US President's in the 1800s. 4 is an unlucky number in Chinese numerology. Where East Asian and Western cultures blend, such as in Hong Kong, it is possible in some buildings that the thirteenth floor along with all the floors with 4s to be omitted. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the number of different American presidents in the 1800s a lucky number in Hong Kong?"
+    ]
+  },
+  {
+    "id": "strategyqa_0114",
+    "question": "Does Rupert Murdoch's alma mater have more history than the USA?",
+    "answer": "yes",
+    "facts": "Rupert Murdoch's alma mater is Worcester College. Worcester College was founded in 1714. The first documented use of the term the United States of America was in a January 2, 1776 letter.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Rupert Murdoch's school have more history than the United States?"
+    ]
+  },
+  {
+    "id": "strategyqa_0115",
+    "question": "Is the title of Shirley Bassey's 1971 diamond song a true statement?",
+    "answer": "no",
+    "facts": "Shirley Bassey recorded the song Diamonds are Forever in 1971, Over time, diamonds degrade and turn into graphite. Graphite is the same chemical composition found in pencils.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the title of Shirley Bassey 's 1971 song true ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0116",
+    "question": "Is shrimp prevalent in Ethiopian cuisine?",
+    "answer": "no",
+    "facts": "Ethiopian cuisine specializes in vegetables and spicy meat dishes. Ethiopia is a landlocked country without access to seas or oceans.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is shrimp predominant in Ethiopian cuisine?",
+      "",
+      "Is the Ethiopian cuisine widespread with shrimp?"
+    ]
+  },
+  {
+    "id": "strategyqa_0117",
+    "question": "Were items released from Pandora's box at least two of the names of Four Horsemen?",
+    "answer": "yes",
+    "facts": "Pandora was a mythical figure that opened a box and released several ills on the world including famine, sickness, and death. The Four Horsemen of the Apocalypse are: Pestilence, War, Famine, and Death.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Have the objects of Pandora been released, at least two of the names of the Four Horsemen?"
+    ]
+  },
+  {
+    "id": "strategyqa_0118",
+    "question": "Should a finished website have lorem ipsum paragraphs?",
+    "answer": "no",
+    "facts": "Lorem Ipsum paragraphs are meant to be temporary. Web designers always remove lorem ipsum paragraphs before launch.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Should a finished site have lorem ipsum paragraphs?",
+      "",
+      "Should a finished website have paragraphs of lorem ipsum?"
+    ]
+  },
+  {
+    "id": "strategyqa_0119",
+    "question": "For bone growth, is kale more beneficial than spinach?",
+    "answer": "yes",
+    "facts": "Calcium is an important nutrient for bone health. Kale has more calcium per serving than spinach.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "For bone development, is kale more beneficial than spinach?",
+      "",
+      "Is cabbage more beneficial than spinach for bone growth?"
+    ]
+  },
+  {
+    "id": "strategyqa_0120",
+    "question": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?",
+    "answer": "no",
+    "facts": "Scholars have determined Noah's Ark to be 75 feet wide. Each lane of the Lincoln Tunnel is 21 feet wide.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Will Noah's Ark cross the flooded Lincoln Tunnel?"
+    ]
+  },
+  {
+    "id": "strategyqa_0121",
+    "question": "Would a sophist use an épée?",
+    "answer": "no",
+    "facts": "A sophist is a specific kind of teacher in ancient Greece, in the fifth and fourth centuries BC. Sophists specialized in using the tools of philosophy and rhetoric, though other sophists taught subjects such as music, athletics and mathematics. An épée is a sword used in fencing. The épée was not developed until the 19th century.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would a sophist use a sword?"
+    ]
+  },
+  {
+    "id": "strategyqa_0122",
+    "question": "Is cactus fruit an important menu item for a restaurant based on Cuauhtémoc?",
+    "answer": "yes",
+    "facts": "The Aztecs cultivated cacti for the fruit Tenochtitlan was the capital of the Aztec empire Cuauhtémoc was the last king of Tenochtitlan ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are cactus fruits an important part of the menu of a Cuauhtémoc-based restaurant?"
+    ]
+  },
+  {
+    "id": "strategyqa_0123",
+    "question": "Could  jockey win Triple Crown between Eid al-Fitr endpoints?",
+    "answer": "no",
+    "facts": "The Triple Crown is an accomplishment in which a jockey wins three specific races. The three Triple Crown races are: Preakness, Kentucky Derby, and Belmont Stakes. The three Triple Crown races take place weeks apart. Eid al-Fitr is a Muslim holiday that lasts for three consecutive days.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can the jockey win the Triple Crown between the Eid al-Fitr finish points?"
+    ]
+  },
+  {
+    "id": "strategyqa_0124",
+    "question": "Did DARPA influence Albert Einstein?",
+    "answer": "no",
+    "facts": "DARPA is an agency in the US focused on defense and new technologies. DARPA was founded in 1958 under Dwight D Eisenhower. Albert Einstein was a famous physicist who died in 1955.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did DARPA influence Albert Einstein ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0125",
+    "question": "Could modern Brazilian Navy have hypothetically turned the tide in Battle of Actium?",
+    "answer": "yes",
+    "facts": "The Battle of Actium saw Mark Antony's army lose to Octavian. Octavian's army had 400 ships, 16000 infantry, and 3,000 archers. The Brazilian Navy has over 80,000 personnel, including 16,000 marines. Several Brazilian Navy ships are armed with explosive torpedoes. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could the modern Brazilian navy, hypothesizedly, have changed the course of the Battle of Actium?"
+    ]
+  },
+  {
+    "id": "strategyqa_0126",
+    "question": "In geometry terms, is the Royal Observatory in Greenwich similar to a yield sign?",
+    "answer": "no",
+    "facts": "The main building of the Royal Observatory is the Octagon Room. A yield sign is shaped like a rounded triangle. Two figures are similar if they have the same shape but not necessarily the same size.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "In geometric terms, is the Royal Observatory in Greenwich similar to a performance sign?"
+    ]
+  },
+  {
+    "id": "strategyqa_0127",
+    "question": "Do you have to put on glasses to read a QR code?",
+    "answer": "no",
+    "facts": "Glasses are used to improve one's vision capabilities. QR codes are not readable by humans and have to be read by machines or programs.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "You have to wear glasses to read a QR code?"
+    ]
+  },
+  {
+    "id": "strategyqa_0128",
+    "question": "Is Glycol something United Airlines would buy?",
+    "answer": "yes",
+    "facts": "Glycol is a commonly used de-icing fluid for commercial planes. American Airlines flies all year round, including throughout the winter.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is glycol something that United Airlines would buy?"
+    ]
+  },
+  {
+    "id": "strategyqa_0129",
+    "question": "Would the crew of Apollo 15 have difficulty riding a unicycle?",
+    "answer": "yes",
+    "facts": "There were 3 astronauts in the crew of the Apollo 15 mission. A unicycle only contains one saddle, and is typically only operated by a single person.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would the crew of Apollo 15 have a hard time getting a single seat?"
+    ]
+  },
+  {
+    "id": "strategyqa_0130",
+    "question": "Is it unusual to eat spaghetti without a fork?",
+    "answer": "yes",
+    "facts": "Spaghetti noodles are long and thin, they are difficult to scoop and must be twirled. Spaghetti is never served in a restaurant without a fork.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0131",
+    "question": "Does Marco Rubio have a close relationship with Allah?",
+    "answer": "no",
+    "facts": "Marco Rubio adheres to the religious sect of Christianity known as Catholicism. Catholics and other Christians worship God. Allah is worshiped by believers of Islam.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0132",
+    "question": "Did Dr. Seuss live a tragedy free life?",
+    "answer": "no",
+    "facts": "Dr. Seuss's wife committed suicide. In his later years, Dr. Seuss was diagnosed with cancer.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Dr. Seuss live a life without tragedy?"
+    ]
+  },
+  {
+    "id": "strategyqa_0133",
+    "question": "Did Christopher Columbus sail representing a different country than his original home?",
+    "answer": "yes",
+    "facts": "Columbus was originally from Genoa in what is now Italy. His expeditions were funded by the Spanish monarchy.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Christopher Columbus sail to represent a different country from his homeland?"
+    ]
+  },
+  {
+    "id": "strategyqa_0134",
+    "question": "Do quadragenarian's have little memory capacity?",
+    "answer": "no",
+    "facts": "Quadragenarians are people that are in their 40s. As people age, their memory can get worse. Half of people over age 50 have mild to severe memory loss. Ken Jennings was 46 years old when he won Jeopardy! The Greatest of All Time tournament.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do Quadragenarians have little memory capacity?"
+    ]
+  },
+  {
+    "id": "strategyqa_0135",
+    "question": "Did Gandhi watch the television show Bonanza?",
+    "answer": "no",
+    "facts": "Bonanza was a television show that aired from  September 12, 1959 until January 16, 1973. Gandhi was assassinated on January 30, 1948.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0136",
+    "question": "Would a dog respond to bell before Grey seal?",
+    "answer": "yes",
+    "facts": "Grey seals have no ear flaps and their ears canals are filled with wax. Grey seals hear better underwater when their ears open like a valve. Dogs have sensitive ears that can hear as far as a quarter of a mile away.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would a dog answer a bell before the gray liver?"
+    ]
+  },
+  {
+    "id": "strategyqa_0137",
+    "question": "Is dessert eaten before breakfast?",
+    "answer": "no",
+    "facts": "Desserts are sweets. Meals generally begin with savory foods, and sweets eaten after.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0138",
+    "question": "Can eating grapefruit kill besides allergies or choking?",
+    "answer": "yes",
+    "facts": "Grapefruit is a citrus fruit consumed mostly during the summer months. Chemicals in grapefruit can interact with medications such as statins. Grapefruit can lead to too much absorption of statin medicine. Too much statins can cause severe muscle pain, liver damage, kidney failure and death. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "Choking, or can eating grapefruit kill besides allergies?",
+      "Can grapefruit kill, in addition to allergies or choking?"
+    ]
+  },
+  {
+    "id": "strategyqa_0139",
+    "question": "Is \"A Tale of Two Cities\" a popular science novel?",
+    "answer": "no",
+    "facts": "\"A Tale of Two Cities\" is a historical fiction novel. Popular science books focus on scientific facts presented to a mainstream audience. Fiction is not fact.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is a tale of two cities a popular science fiction?"
+    ]
+  },
+  {
+    "id": "strategyqa_0140",
+    "question": "Would someone pay for a coffee in NYC with Euros?",
+    "answer": "no",
+    "facts": "New York City is located within the United States. The currency used in the United States is the United States dollar, not the Euro.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would anyone pay for a coffee in New York with euros?"
+    ]
+  },
+  {
+    "id": "strategyqa_0141",
+    "question": "Would a Jehovah's witness approve of Alice's Adventures in Wonderland?",
+    "answer": "no",
+    "facts": "Jehovah's Witness is a religious group that strictly forbids tobacco and smoking. A prominent character in Alice's Adventures in Wonderland, the caterpillar, blows rings of smoke from a large pipe.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would one of Jehovah's Witnesses approve of Alice's Adventures in Wonderland?"
+    ]
+  },
+  {
+    "id": "strategyqa_0142",
+    "question": "Can the Very Large Telescope observe the largest mountain on Earth?",
+    "answer": "no",
+    "facts": "The Very Large Telescope observes outer space. The largest mountain on earth is underneath the ocean.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can the Very Large Telescope observe the biggest mountain on Earth?",
+      "",
+      "Can the very large telescope observe the highest mountain on Earth?"
+    ]
+  },
+  {
+    "id": "strategyqa_0143",
+    "question": "If Goofy were a pet, would he need heartworm prevention?",
+    "answer": "yes",
+    "facts": "Goofy is an anthropomorphic dog character.  Dogs require regular heartworm prevention. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "Would he need heartworm prevention, if Goofy were a pet?",
+      "If Goofy was a pet, would he need cardiac arrest?"
+    ]
+  },
+  {
+    "id": "strategyqa_0144",
+    "question": "Is blonde hair green eyed Sara Paxton considered a Latino?",
+    "answer": "yes",
+    "facts": "Sara Paxton is an American actress. Latino's are people with ancestral ties to Latin America. Sara Paxton was born to an Irish/English father and a Mexican/Spanish/Chilean mother. Mexico is a country that is part of Latin America.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is blond hair green eyed Sara Paxton considered a Latino?",
+      "",
+      "Is Sara Paxton, blonde with green eyes, considered a Latina?"
+    ]
+  },
+  {
+    "id": "strategyqa_0145",
+    "question": "Would you hire someone with dyscalculia to do surveying work?",
+    "answer": "no",
+    "facts": "Dyscalculia is a learning disability in math. People with dyscalculia have trouble with math at many levels.  Surveyors work with elements of geometry, trigonometry, regression analysis, physics, engineering, metrology, programming languages, and the law.  Geometry and trigonometry are types of advanced mathematics.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would you hire someone with a dyscalculation to do some surveying?"
+    ]
+  },
+  {
+    "id": "strategyqa_0146",
+    "question": "Can Harry Potter book a flight on Asiana Airlines?",
+    "answer": "no",
+    "facts": "Asiana Airlines is the second largest airline in South Korea Harry Potter is a fictional character",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Harry Potter can book a flight with Asiana Airlines?"
+    ]
+  },
+  {
+    "id": "strategyqa_0147",
+    "question": "Do drummers need spare strings?",
+    "answer": "no",
+    "facts": "Drummers usually work with guitarists or other stringed instrumentalists. However, drum sets do not contain strings. Musicians usually change their own strings as necessary, so it is their band mates, not the drummer, who carries the spare strings.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do the drummers need any spare strings?"
+    ]
+  },
+  {
+    "id": "strategyqa_0148",
+    "question": "Would Cardi B. benefit from soy milk?",
+    "answer": "yes",
+    "facts": "Cardi B became lactose intolerant in her early twenties. People who are lactose intolerant cannot have dairy. Soy milk is an alternative to dairy milk.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0149",
+    "question": "Would it be impossible to keep an ocean sunfish and a goldfish in the same tank?",
+    "answer": "yes",
+    "facts": "Ocean sunfish live in salt water environments. Goldfish live in fresh water environments. Putting a fish into the wrong water type can cause them to die.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is it impossible to keep a sunfish and a goldfish in the same tank?"
+    ]
+  },
+  {
+    "id": "strategyqa_0150",
+    "question": "Would Amy Winehouse's death have been prevented with Narcan?",
+    "answer": "no",
+    "facts": "Narcan is a medication that save the life of someone overdosing on opiates. Amy Winehouse died from alcohol poisoning. Narcan cannot work on alcohol overdoses.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Amy Winehouse's death could have been prevented with Narcan?"
+    ]
+  },
+  {
+    "id": "strategyqa_0151",
+    "question": "Can Hulk's alter ego explain atomic events?",
+    "answer": "yes",
+    "facts": "Hulk's alter ego is Dr. Robert Bruce Banner Dr. Robert Bruce Banner is a nuclear physicist.  Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can the Hulk's alterego explain the atomic events?"
+    ]
+  },
+  {
+    "id": "strategyqa_0152",
+    "question": "Can a New Yorker get their eyes checked by Rand Paul legally?",
+    "answer": "no",
+    "facts": "Rand Paul is a senator from Kentucky. Rand Paul was an ophthalmologist in Kentucky with ABO certification. The National Board of Ophthalmology does not recognize ABO certification. Kentucky does not require ophthalmologists to be certified. NY ophthalmologists must have approved application for licensure certifications.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a New Yorker legally have Rand Paul check his eyes?"
+    ]
+  },
+  {
+    "id": "strategyqa_0153",
+    "question": "Can a strawberry get worms similar to dogs?",
+    "answer": "yes",
+    "facts": "Strawberry can suffer from black root rot and nematodes. Dogs can suffer from a variety of worms including roundworms that lay eggs on them. Nematodes are parasites that are also called roundworms and ascarids. Nematodes are parasites that feed off of strawberry plants.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a strawberry catch worms like dogs?"
+    ]
+  },
+  {
+    "id": "strategyqa_0154",
+    "question": "Is Edward Snowden in hiding from the United States?",
+    "answer": "no",
+    "facts": "Edward Snowden has an active twitter account and has been on political commentary shows. Edward Snowden's country of residence is listed on his Wikipedia.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Edward Snowden hiding in the United States?"
+    ]
+  },
+  {
+    "id": "strategyqa_0155",
+    "question": "Is someone more likely to survive having breast cancer in Japan than in Sweden?",
+    "answer": "no",
+    "facts": "84.70% of people in Japan with breast cancer survive 86.20% of people in Sweden with breast cancer survive",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is there anyone more likely to survive breast cancer in Japan than in Sweden?"
+    ]
+  },
+  {
+    "id": "strategyqa_0156",
+    "question": "Does Disney's Alice in Wonderland involve the celebration of a holiday?",
+    "answer": "yes",
+    "facts": "In the movie, Alice meets the Mad Hatter. The Mad Hatter is having a tea party to celebrate his Unbirthday. The Unbirthday is a holiday which happens every day of the year which is not the subject's actual birthday.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Alice in Wonderland involve a holiday celebration?"
+    ]
+  },
+  {
+    "id": "strategyqa_0157",
+    "question": "Do bodies movie during hanging?",
+    "answer": "yes",
+    "facts": "Electrochemical nerve signals are fired after death that can cause a body to twitch. If death by hanging is accomplished due to asphyxia, the victim may attempt to free themselves or may appear to struggle.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the bodies being filmed during the hanging?"
+    ]
+  },
+  {
+    "id": "strategyqa_0158",
+    "question": "Would a Yeti be likely to have prehensile limbs?",
+    "answer": "yes",
+    "facts": "The animals that Yetis are said to look similar to are able to use their hands or toes to grasp items The ability to grasp with hands or other limbs is to be prehensile. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would a Yeti have any prone limbs?"
+    ]
+  },
+  {
+    "id": "strategyqa_0159",
+    "question": "Are the majority of Reddit users familiar with the Pledge of Allegiance?",
+    "answer": "yes",
+    "facts": "55% of the Reddit user base comes from the United States. Congressional sessions open with the recital of the Pledge, as do many government meetings at local levels, and meetings held by many private organizations. All states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the pledge in public schools.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do most Reddit users know the oath of allegiance?"
+    ]
+  },
+  {
+    "id": "strategyqa_0160",
+    "question": "Was Augustus his real name?",
+    "answer": "no",
+    "facts": "Augustus was given the name Gaius Octavius at birth. After he was adopted by his uncle Julius Caesar, he took the name Gaius Iulius Caesar. He took the name Augustus upon the breaking of the ruling Triumvirate and becoming Emperor.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0161",
+    "question": "Would Shaggy and Redenbacher popcorn founder both raise hand during first name roll call?",
+    "answer": "yes",
+    "facts": "Roll call is when teachers call the names of students and they raise their hand to show they are present. The founder of Redenbacher popcorn was Orville Redenbacher. Reggae musician Shaggy was born Orville Richard Burrell.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would Shaggy and the founder of Redenbacher raise their hands on the first call?"
+    ]
+  },
+  {
+    "id": "strategyqa_0162",
+    "question": "Is there any absolute way to prevent abortion?",
+    "answer": "no",
+    "facts": "In areas where professional medical abortions are illegal, women get unsafe illegal abortions from unlicensed practitioners.  Women have successfully aborted their own children through physical or chemical means for centuries.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is there an absolute way to avoid abortion?"
+    ]
+  },
+  {
+    "id": "strategyqa_0163",
+    "question": "Does Antarctica have a lot of problems relating to homelessness?",
+    "answer": "no",
+    "facts": "Antarctica has no permanent residents. Exposure to the elements would be deadly for homeless people during certain times of year.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Antarctica have many homeless problems?"
+    ]
+  },
+  {
+    "id": "strategyqa_0164",
+    "question": "Can Immersion Baptism lead to a death like Jeff Buckley's?",
+    "answer": "yes",
+    "facts": "Immersion Baptism is the practice of submerging people underwater for a religious ritual. Jeff Buckley was an acclaimed singer that died of drowning in 1997. A baby in Moldova died from Immersion Baptism in 2010.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can immersion lead to a death like Jeff Buckley's?"
+    ]
+  },
+  {
+    "id": "strategyqa_0165",
+    "question": "Would a nickel fit inside a koala pouch?",
+    "answer": "yes",
+    "facts": "Koala joeys (babies) enter their mother's pouch when they are about 2 to 3 centimeters long. An American nickel is 2.12 centimeters in diameter.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a nickel fit in a bag of koala?"
+    ]
+  },
+  {
+    "id": "strategyqa_0166",
+    "question": "Can parachuting amateurs ignore hurricane force winds bulletins?",
+    "answer": "no",
+    "facts": "A hurricane force wind warning is issued by the National Weather Service for winds above 74 mph  Solo student parachuters are prohibited from jumping in winds exceeding 14 mph",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can parachutists' fans ignore the bulletins of hurricane winds?"
+    ]
+  },
+  {
+    "id": "strategyqa_0167",
+    "question": "Can a snow leopard eat twice its own body weight?",
+    "answer": "yes",
+    "facts": "The average snow leopard weighs 72 pounds. The favorite food of snow leopards is an ibex. The average weight of an ibex is 150 pounds.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can a snow leopard eat twice its own weight?"
+    ]
+  },
+  {
+    "id": "strategyqa_0168",
+    "question": "Can you order an Alfa Romeo at Starbucks?",
+    "answer": "no",
+    "facts": "Alfa Romeo is a brand of automobile Starbucks sells coffee, tea, food, and some drink products like thermoses",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you order an Alfa Romeo from Starbucks?"
+    ]
+  },
+  {
+    "id": "strategyqa_0169",
+    "question": "Is Pearl Harbor the mythical home of a shark goddess?",
+    "answer": "yes",
+    "facts": "The native Hawaiian people believed Pearl Harbor was the home of Kaʻahupahau. Kaʻahupahau is a shark goddess in Hawaiian legends. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is Pearl Harbor the mythological home of a shark goddess?",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0170",
+    "question": "Were weather phenomena avoided when naming minor league baseball teams?",
+    "answer": "no",
+    "facts": "Weather phenomena refers to types of weather caused conditions such as cyclones, storms, and tsunamis. Minor league baseball teams include the Brooklyn Cyclones and Lake Elsinore Storm.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Have the minor league baseball teams been prevented by the weather?"
+    ]
+  },
+  {
+    "id": "strategyqa_0171",
+    "question": "Does Fraktur have a sordid history?",
+    "answer": "yes",
+    "facts": "Fraktur is a type of font that originated in Germany. Fraktur was used on official Nazi documents. Fraktur was used on the cover of Hitler's Mein Kampf.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Fraktur has a history of sordidity ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0172",
+    "question": "Are all limbs required for jujutsu?",
+    "answer": "no",
+    "facts": "Jujutsu is a Japanese martial art that uses unarmed combat to subdue opponents. Nick Newell, a congenital amputee, got his black belt after two straight submission wins. Fighter Aaron LaPointe has succeeded in martial arts with a fully paralyzed arm.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are all the members necessary for jujutsu?"
+    ]
+  },
+  {
+    "id": "strategyqa_0173",
+    "question": "Did Mickey Mouse appear in a cartoon with Bugs Bunny in 1930?",
+    "answer": "no",
+    "facts": "Bugs Bunny was created in the late 1930s. Mickey Mouse was created in 1928. Mickey Mouse appears in Disney cartoons. Bugs Bunny appears in Warner Bros. cartoons.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Mickey Mouse appeared in a cartoon with Bugs Bunny in 1930?"
+    ]
+  },
+  {
+    "id": "strategyqa_0174",
+    "question": "Does Jack Sparrow know any sea shantys?",
+    "answer": "yes",
+    "facts": "Jack Sparrow is the main character of the popular 'Pirates of the Caribbean' movie franchise. Jack Sparrow is the captain of a pirate ship. Jack Sparrow sings many songs while on the sea.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Jack Sparrow knows any sea shantis?"
+    ]
+  },
+  {
+    "id": "strategyqa_0175",
+    "question": "Does Ahura Mazda have a rivalry with Zeus?",
+    "answer": "no",
+    "facts": "Ahura Mazda is a deity of Zoroastrianism, a contemporary religion Zeus is a deity of Greek mythology",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Ahura Mazda has a rivalry with Zeus?"
+    ]
+  },
+  {
+    "id": "strategyqa_0176",
+    "question": "Is Supreme Court of the United States analogous to High Courts of Justice of Spain?",
+    "answer": "no",
+    "facts": "The Supreme Court of the United States is the final court ad has final say in judicial matters. The High Courts of Justice in Spain rule over single communities. The Supreme Court of Spain is the highest court in Spain and can overrule lesser courts.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the Supreme Court of the United States similar to the Spanish High Courts of Justice?"
+    ]
+  },
+  {
+    "id": "strategyqa_0177",
+    "question": "Could boolean algebra be described as binary?",
+    "answer": "yes",
+    "facts": "Binary options tend to have 2 instead of 10 as a base.  Binary directly describes something composed of 2 things. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can Boolean algebra be described as binary?"
+    ]
+  },
+  {
+    "id": "strategyqa_0178",
+    "question": "Can Kane challenge Joe Biden in this year's primaries?",
+    "answer": "no",
+    "facts": "Kane is a member of the Republican Party Joe Biden is a member of the Democratic Party Primaries are conducted between members of the same political party",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can Kane challenge Joe Biden in this year's primary?"
+    ]
+  },
+  {
+    "id": "strategyqa_0179",
+    "question": "Was Richard III ruler of Adelaide?",
+    "answer": "no",
+    "facts": "Richard III was King of England and Lord of Ireland from 1483-1485. Adelaide is a city in South Australia.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Richard III was the ruler of Adelaide?"
+    ]
+  },
+  {
+    "id": "strategyqa_0180",
+    "question": "Is the United States Capitol located near the White House?",
+    "answer": "yes",
+    "facts": "The Capitol building is located at one end of the National Mall in downtown Washington DC. The White House is located next to the Washington Monument a short way down from the Mall.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0181",
+    "question": "Would lumberjacks get full after eating three dosa?",
+    "answer": "no",
+    "facts": "Dosa are thin rice pancakes from South India. One dosa is approximately 110 calories. The average lumberjack would eat 8000 calories per day.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would the loggers get enough after eating three doses?"
+    ]
+  },
+  {
+    "id": "strategyqa_0182",
+    "question": "Did the Presidency of Bill Clinton conclude with his impeachment?",
+    "answer": "no",
+    "facts": "Bill Clinton was impeached in 1998. Bill Clinton remained in office until 2001.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Bill Clinton's presidency conclude with his impeachment?"
+    ]
+  },
+  {
+    "id": "strategyqa_0183",
+    "question": "Could a white belt defeat Jon Jones in a Brazilian jiu-jitsu match?",
+    "answer": "no",
+    "facts": "A white belt is the lowest ranking in Brazilian jiu-jitsu. Jon Jones has a purple belt in Brazilian jiu-jitsu under Roberto Alencar. A purple belt is the second highest ranking in Brazilian jiu-jitsu. Jon Jones is one of the greatest combat sports athletes to ever live.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could a white belt beat Jon Jones in a Brazilian jiu-jitsu game?"
+    ]
+  },
+  {
+    "id": "strategyqa_0184",
+    "question": "Is Menthol associated with Thanksgiving?",
+    "answer": "no",
+    "facts": "Menthol is the main component of peppermint oil and is responsible for the noticeable cooling sensation.  During Thanksgiving, turkey, potatoes, gravy, and pie are common dishes. None of which have menthol in it.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is menthol associated with Thanksgiving?"
+    ]
+  },
+  {
+    "id": "strategyqa_0185",
+    "question": "Does Super Mario require electricity to play?",
+    "answer": "yes",
+    "facts": "Super Mario is a video game. Video games are played on electronic devices. Electronic devices require electricity to function.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Does Super Mario necessitate electricity to play?",
+      "",
+      "Does Super Mario need electricity to play?"
+    ]
+  },
+  {
+    "id": "strategyqa_0186",
+    "question": "Could you brew beer from start to finish in the month of September?",
+    "answer": "no",
+    "facts": "Brewing a batch of beer takes at least 5 weeks. There are 30 days, or 4 1/2 weeks, in the month of September.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can you make the beer from the beginning to the end of September?"
+    ]
+  },
+  {
+    "id": "strategyqa_0187",
+    "question": "Does Amtrak run from NYC directly to the Moai location?",
+    "answer": "no",
+    "facts": "Amtrak is a series of railways that transport people to various locations. The Moai are ancient stone statue faces that are a popular tourist destination. The Moai are located on Easter Island, an island in the Pacific ocean, near Chile.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Amtrak is going straight from New York to Moai's site?"
+    ]
+  },
+  {
+    "id": "strategyqa_0188",
+    "question": "Does 2015 have more unlucky Friday's than usual?",
+    "answer": "yes",
+    "facts": "Friday the 13th is known as an unlucky Friday because of the number 13. A year can have as many as three Friday the 13ths. One Friday the 13th is the average per year. There were 3 Friday the 13ths in 2015.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is 2015 more unlucky than usual?"
+    ]
+  },
+  {
+    "id": "strategyqa_0189",
+    "question": "Is Tony Bennett's middle name shared by a former UFC champion?",
+    "answer": "yes",
+    "facts": "Tony Bennett's full name is Anthony Dominick Benedetto. Dominick Cruz is a two-time UFC Bantamweight Champion.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is Tony Bennett's in-between name shared by a former UFC champion?",
+      "",
+      "Is the name of Tony Bennett shared by a former UFC champion?"
+    ]
+  },
+  {
+    "id": "strategyqa_0190",
+    "question": "Can chemicals in onion help create a thermonuclear bomb?",
+    "answer": "yes",
+    "facts": "A thermonuclear bomb, also called a hydrogen bomb, uses hydrogen under high temperatures to create an explosive reaction. While chopping onions, cells inside the onion are broken and the gas that comes out forms sulfenic acid. Sulfenic acid is composed of several elements including hydrogen.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can chemicals in onion assist create a thermonuclear bomb?",
+      "",
+      "Can the chemicals in onions help create a thermonuclear bomb?"
+    ]
+  },
+  {
+    "id": "strategyqa_0191",
+    "question": "Can binary numbers and standard alphabet satisfy criteria for a strong password?",
+    "answer": "no",
+    "facts": "The criteria for a strong password according to cybersecurity company Avast is: at least 15 characters. uppercase letters. lowercase letters. numbers. and symbols. The standard alphabet contains twenty six letters but no special characters. Binary numbers only contain 0 and 1.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "Standard alphabet satisfy criteria for a strong password, and can binary numbers?",
+      "Can binary numbers and the standard alphabet meet the criteria for a strong password?"
+    ]
+  },
+  {
+    "id": "strategyqa_0192",
+    "question": "Did Saddam Hussein witness the inauguration of Donald Trump?",
+    "answer": "no",
+    "facts": "Saddam Hussein died on December 30th, 2006. Donald Trump was inaugurated as the President of the United States on January 20, 2017.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0193",
+    "question": "Do moths that live on sloths have family dinners?",
+    "answer": "no",
+    "facts": "Algae grows on sloths Sloth moths feed on algae that grows on sloths Sloth moth caterpillars feed on sloth dung  Sloths defecate far from their ususl abode",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do butterflies that live on lazy people have family dinners?"
+    ]
+  },
+  {
+    "id": "strategyqa_0194",
+    "question": "Could someone have arrived at Wrestlemania X in a Toyota Prius?",
+    "answer": "no",
+    "facts": "Wrestlemania X took place in 1994 The Toyota Prius was first manufactured in 1997",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could anyone have made it to Wrestlemania X in a Toyota Prius?"
+    ]
+  },
+  {
+    "id": "strategyqa_0195",
+    "question": "Could Johnny Carson's children fill out a water polo team?",
+    "answer": "no",
+    "facts": "Johnny Carson had 3 children. Water polo teams consist of 7 players.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could Johnny Carson 's kids fill up a water polo team ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0196",
+    "question": "Would three newborn kittens fit on a standard Amtrak coach seat?",
+    "answer": "yes",
+    "facts": "Newborn kittens are small enough to fit in an average human hand. The average human hand is 7 inches. An Amtrak coach seat is 39\" x 23\".",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could three new kittens sit in a bus seat on an Amtrak?"
+    ]
+  },
+  {
+    "id": "strategyqa_0197",
+    "question": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?",
+    "answer": "no",
+    "facts": "Albany, GA has around 75,000 people Albany, NY has almost 100,000 people",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Will Albany in Georgia reach 100,000 people before New York?"
+    ]
+  },
+  {
+    "id": "strategyqa_0198",
+    "question": "Will a sloth explode if it's not upside down?",
+    "answer": "no",
+    "facts": "sloth can climb trees in various positions. sloth can crawl along the ground on their stomachs. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Will a slothfulness explode if it's not upside down?",
+      "",
+      "Is a lazy man going to blow up if he's not upside down?"
+    ]
+  },
+  {
+    "id": "strategyqa_0199",
+    "question": "Could Eddie Murphy dial 911 in a car as a young child?",
+    "answer": "no",
+    "facts": "Eddie Murphy was born in 1961. Car phones did not become commonplace in cars in America until 1984.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Eddie Murphy could call 911 in a car when he was a kid?"
+    ]
+  },
+  {
+    "id": "strategyqa_0200",
+    "question": "Is it possible to binge entire EastEnders series without water?",
+    "answer": "no",
+    "facts": "British TV series EastEnders has over 6,000 episodes as of 2020. It would take approximately 125 days to binge watch the entire EastEnders TV series. A human can last only 4 days without water.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is it possible to overeat entire EastEnders series without water?",
+      "",
+      "Is it possible to make an EastEnders series without water?"
+    ]
+  },
+  {
+    "id": "strategyqa_0201",
+    "question": "Did Johnny Carson win enough Emmy's to fill a carton if Emmy's were eggs?",
+    "answer": "no",
+    "facts": "There are 12 eggs in a carton. Johnny Carson won 6 Emmys. 6 is less than 12.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Johnny Carson won enough Emmys to fill a box if the Emmys were eggs?"
+    ]
+  },
+  {
+    "id": "strategyqa_0202",
+    "question": "Is overfeeding Lactobacillus unwise for people without dental insurance?",
+    "answer": "yes",
+    "facts": "Lactobacillus species convert sugars they digest to lactic acid  The lactic acid of some Lactobacillus species is associated with tooth decay Dental procedures can be expensive without insurance",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is it unwise to over-feed Lactobacillus for people without dental insurance?"
+    ]
+  },
+  {
+    "id": "strategyqa_0203",
+    "question": "Do beeswax alternatives to cling wrap use plsatic?",
+    "answer": "no",
+    "facts": "Beeswax food wrapping is typically made of two ingredients. Beeswax food wrap is composed of cotton fabric and beeswax. Neither cotton nor beeswax contains plastic.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the alternatives to beeswax in the adhesive packaging plastics?"
+    ]
+  },
+  {
+    "id": "strategyqa_0204",
+    "question": "Is Pan a symbol of virtue and virginity in women?",
+    "answer": "no",
+    "facts": "Pan is famous for his sexual powers. Women who had had sexual relations with several men were referred to as \"Pan girls.\"",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0205",
+    "question": "During the pandemic, is door to door advertising considered inconsiderate?",
+    "answer": "yes",
+    "facts": "Door to door advertising involves someone going to several homes in a residential area to make sales and leave informational packets. During the COVID-19 pandemic, the CDC recommends that people limit their travel to essential needs only. During the COVID-19 pandemic, citizens are advised to stay home and to limit their interaction with others. During the COVID-19 pandemic, people are encouraged to remain six feet away from each other at all times. The more people that someone interacts with, the higher the likelihood of them becoming a vector for the COVID-19 virus.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "During the pandemic, is door to door advertisement considered inconsiderate?",
+      "",
+      "During the pandemic, is it considered unwise to advertise from door to door?"
+    ]
+  },
+  {
+    "id": "strategyqa_0206",
+    "question": "Is it okay to lie after taking an oath in a court of law?",
+    "answer": "no",
+    "facts": "In a court of law, lying under oath is considered perjury.  Perjury is considered a crime.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is it normal to lie after taking an oath in court?"
+    ]
+  },
+  {
+    "id": "strategyqa_0207",
+    "question": "Do you need a farmer to make a circuit board?",
+    "answer": "no",
+    "facts": "Farmers cultivate and produce crops and/or livestock for sale or consumption Circuit boards contain various man made materials as well as metals Metals are produced from the earth by miners",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "You need a farmer to make a circuit board?"
+    ]
+  },
+  {
+    "id": "strategyqa_0208",
+    "question": "Have the Israelis played the Hammerstein Ballroom?",
+    "answer": "no",
+    "facts": "The Israelis are an ethnic group The Hammerstein Ballroom is a venue for concerts and musical performances",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did the Israelis play in the Hammerstein Ballroom?"
+    ]
+  },
+  {
+    "id": "strategyqa_0209",
+    "question": "Can every digit in Pi be memorized?",
+    "answer": "no",
+    "facts": "The digits of Pi are infinite.  The human mind cannot hold an infinite amount of information.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can every number of Pi be memorized?"
+    ]
+  },
+  {
+    "id": "strategyqa_0210",
+    "question": "Did earth complete at least one orbit around the sun during the Napoleonic Wars?",
+    "answer": "yes",
+    "facts": "Earth orbits around the Sun in 365 days. Napoleonic Wars lasted 12 years, 5 months and 4 weeks.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Did world complete at least one orbit around the sun during the Napoleonic Wars?",
+      "",
+      "Did the earth orbit the sun at least once during the Napoleonic Wars?"
+    ]
+  },
+  {
+    "id": "strategyqa_0211",
+    "question": "Does water have viscosity?",
+    "answer": "no",
+    "facts": "Viscosity is resistance of fluid to deformation. Water is not resistant to deformation.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does the water have a viscosity?"
+    ]
+  },
+  {
+    "id": "strategyqa_0212",
+    "question": "Could Snoopy transmit rabies?",
+    "answer": "no",
+    "facts": "Snoopy is a fictional dog. Fictional animals cannot transmit diseases to real people.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could Snoopy be transmitting the rage?"
+    ]
+  },
+  {
+    "id": "strategyqa_0213",
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "answer": "yes",
+    "facts": "The average cost of a US Boeing 737 plane is 1.6 million dollars. Wonder Woman (2017 film) grossed over 800 million dollars at the box office.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is the cost of a Boeing 737 covered by the Wonder Woman (film 2017) ticket receipts?"
+    ]
+  },
+  {
+    "id": "strategyqa_0214",
+    "question": "Could a Porsche 992 Turbo S defeat Usain Bolt in a 100 meter sprint?",
+    "answer": "yes",
+    "facts": "The Porsche 992 Turbo S can accelerate to 62 mph in 2.7 seconds. Usain Bolt's top speed ever measured is 27.79 mph.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could a Porsche 992 Turbo S beat Usain Bolt in a 100-meter sprint?"
+    ]
+  },
+  {
+    "id": "strategyqa_0215",
+    "question": "Did Polar Bears roam around in Ancient Greece?",
+    "answer": "no",
+    "facts": "Polar Bears live in the Arctic, with temperatures that can get as low as -35 degrees celsius. Ancient Greece had an average temperature of 24 degrees celsius.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did polar bears travel through ancient Greece?"
+    ]
+  },
+  {
+    "id": "strategyqa_0216",
+    "question": "Would hypothermia be a concern for a human wearing zoot suit on Triton?",
+    "answer": "yes",
+    "facts": "A zoot suit was a man's suit of an exaggerated style popular in the 1940s. Triton is one of the coldest planets in the solar system. Triton is located about 2.8 billion miles from the warmth of the sun. Triton has an average temperature of -235.0°C A zoot suit is made of thin material such as cloth.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would hypothermia be a concern for a human wearing a zoot suit on Triton?"
+    ]
+  },
+  {
+    "id": "strategyqa_0217",
+    "question": "Can Arnold Schwarzenegger deadlift an adult Black rhinoceros?",
+    "answer": "no",
+    "facts": "Arnold Schwarzenegger deadlifted 710 pounds in a competition. The world deadlift record is 1,104 pounds, set by Game of Thrones actor Hafthor Bjornsson. The weight of an adult Black rhinoceros is between 1,800 – 3,100 pounds.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Arnold Schwarzenegger can kill an adult black rhinoceros ?"
+    ]
+  },
+  {
+    "id": "strategyqa_0218",
+    "question": "Could ABBA play a mixed doubles tennis game against each other?",
+    "answer": "yes",
+    "facts": "ABBA contained two male and two female members. Mixed doubles tennis games consist of two teams of one man and one woman on each.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Could ABBA play a melded doubles tennis game against each other?",
+      "",
+      "Could ABBA play a double-header tennis match?"
+    ]
+  },
+  {
+    "id": "strategyqa_0219",
+    "question": "Can surgery prevent an existential crisis?",
+    "answer": "no",
+    "facts": "Surgery is used to correct medical problems or make physical alterations to the body An existential crisis is a metaphysical affliction",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can surgery prevent a crisis in life?"
+    ]
+  },
+  {
+    "id": "strategyqa_0220",
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "answer": "yes",
+    "facts": "Without insurance, a CT scan can cost up to $5,000. Most insurance companies will cover or reimburse the cost of a CT scan.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Would an uninsured person be more likely to refuse CT scans than an insured person?"
+    ]
+  },
+  {
+    "id": "strategyqa_0221",
+    "question": "Was a nuclear bomb used in the Napoleonic Wars?",
+    "answer": "no",
+    "facts": "The Napoleonic Wars took place between 1803 and 1815. Nuclear bombs have only been used in warfare twice, both times in 1945.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Was a atomic bomb used in the Napoleonic Wars?",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0222",
+    "question": "Would human race go extinct without chlorophyll?",
+    "answer": "yes",
+    "facts": "Chlorophyll is a pigment in plants responsible for photosynthesis. Photosynthesis is the process by which plants release oxygen into the atmosphere. Humans need oxygen to live.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Would human race go extinct without chlorophyl?",
+      "",
+      "Would the human race disappear without chlorophyll?"
+    ]
+  },
+  {
+    "id": "strategyqa_0223",
+    "question": "Was the Joker an enemy of the Avengers?",
+    "answer": "no",
+    "facts": "The Joker is a DC Comics villain. The Avengers are a group of heroes from Marvel Comics. Being from different publishers, they do not meet.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "The Joker was an enemy of the Avengers?"
+    ]
+  },
+  {
+    "id": "strategyqa_0224",
+    "question": "Would Bruce Gandy be an odd choice for Messiah (Handel)?",
+    "answer": "yes",
+    "facts": "Messiah (Handel) is a 1741 Oratorio by George Frideric Handel. Messiah (Handel) requires the following instruments: 2 trumpets; timpani; 2 oboes; 2 violins; and a viola. Bruce Gandy is a world renowned bagpipe player.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Would Bruce Gandy be an odd selection for Messiah (Handel)?",
+      "",
+      "Would Bruce Gandy be a strange choice for the Messiah?"
+    ]
+  },
+  {
+    "id": "strategyqa_0225",
+    "question": "Would Robert Wadlow tower over a German Shepherd?",
+    "answer": "yes",
+    "facts": "German Shepherds have a height between 22 and 26 inches. Robert Wadlow was the tallest man ever, reaching a height of 8 ft 11.1 inches at his death.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Robert Wadlow turning over a German shepherd?"
+    ]
+  },
+  {
+    "id": "strategyqa_0226",
+    "question": "Phileas Fogg's around the world would be difficult to achieve during Pope John Paul I's reign?",
+    "answer": "yes",
+    "facts": "Phileas Fogg is a character in Jules Verne's Around the World in Eighty Days. Phileas Fogg attempts to circumnavigate the globe in 80 days. Pope John Paul I reigned for only 33 days.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Phileas Fogg's around the creation would be difficult to achieve during Pope John Paul I's reign?",
+      "",
+      "Would the Fogg philanthropy in the world be hard to reach under Pope John Paul I?"
+    ]
+  },
+  {
+    "id": "strategyqa_0227",
+    "question": "Does Post Malone have a fear of needles?",
+    "answer": "no",
+    "facts": "Post Malone's body is covered with many tattoos. The most common method of tattooing in modern times is the electric tattoo machine, which inserts ink into the skin via a single needle or a group of needles that are soldered onto a bar, which is attached to an oscillating unit.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is Post Malone afraid of needles?"
+    ]
+  },
+  {
+    "id": "strategyqa_0228",
+    "question": "Did Supernatural break 2001 CW debuting shows seasons record?",
+    "answer": "yes",
+    "facts": "Smallville debuted on the CW in 2001. Smallville had the record of most CW seasons for a show with 10. Supernatural concluded its run with its record breaking 15th season on the CW.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Supernatural break the season record for the first show of 2001?"
+    ]
+  },
+  {
+    "id": "strategyqa_0229",
+    "question": "Did Tony Bennett have more children than he had wives?",
+    "answer": "yes",
+    "facts": "Tony Bennett had four children. Tony Bennet has had three wives.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Tony Bennett have more children than women?"
+    ]
+  },
+  {
+    "id": "strategyqa_0230",
+    "question": "Is RoboCop director from same country as Gaite Jansen?",
+    "answer": "yes",
+    "facts": "Robocop was directed by Paul Verhoeven. Paul Verhoeven was born in Amsterdam, Netherlands. Gaite Jansen is an actress known for Jett and Peaky Blinders and was born in Rotterdam, Netherlands.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is RoboCop manager from same country as Gaite Jansen?",
+      "",
+      "Is the head of RoboCop from the same country as Gaite Jansen?"
+    ]
+  },
+  {
+    "id": "strategyqa_0231",
+    "question": "Are most mall Santa Claus actors white?",
+    "answer": "yes",
+    "facts": "In 2016, a black man playing Santa Claus at the Mall of America made national headlines. There are map websites dedicated to locating black Santa Claus mall actors.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are most of the actors in the mall white?"
+    ]
+  },
+  {
+    "id": "strategyqa_0232",
+    "question": "Can telescopes hear noise?",
+    "answer": "no",
+    "facts": "Telescopes are used to view things far away. Telescopes are an optical instrument. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Can the telescopes hear the noise?"
+    ]
+  },
+  {
+    "id": "strategyqa_0233",
+    "question": "Does United Airlines have a perfect operation record?",
+    "answer": "no",
+    "facts": "An airline with a perfect operation record has no crashes or other damaging incidents. United Airlines has had over 30 crash incidents over several decades.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does United Airlines have a perfect experience?"
+    ]
+  },
+  {
+    "id": "strategyqa_0234",
+    "question": "Could ancient Tony Bennett have a baby in 2020?",
+    "answer": "yes",
+    "facts": "Tony Bennett is a legendary singer who will turn 94 years old in August 2020. Ramjit Raghav, the oldest man to have a baby, had his first child at age 94. Ramjit Raghav had his second child at age 96.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Could the ex-Tony Bennett have a baby in 2020?"
+    ]
+  },
+  {
+    "id": "strategyqa_0235",
+    "question": "Does rock star Keith Richards play a captain of a boat in a movie?",
+    "answer": "yes",
+    "facts": "Keith Richards has a cameo appearance in two of the Pirates of the Caribbean movies. He plays Captain Teague, the elderly father of famous pirate Captain Jack Sparrow. In At World's End, he is the member of the council of Pirate Lords who is responsible for keeping the Pirate Code, and there is a brief shot of him and his crew aboard their ship during the sequence where the pirates are raising their banners in preparation to fight.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Is rock star Keith Richards playing the captain of a boat in a movie?"
+    ]
+  },
+  {
+    "id": "strategyqa_0236",
+    "question": "Is the United States the largest exporter of Fair Trade products?",
+    "answer": "no",
+    "facts": "Fair trade is an arrangement designed to help producers in developing countries achieve good trading. The United States is not considered a developing country.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is the United States the biggest exporter of Fair Trade products?",
+      "",
+      "Is the United States the largest exporter of fair trade products?"
+    ]
+  },
+  {
+    "id": "strategyqa_0237",
+    "question": "Can the largest crustacean stretch out completely on a king-sized mattress?",
+    "answer": "no",
+    "facts": "The largest crustacean is the Japanese spider crab  The largest Japanese spider crabs have a leg span of just over 12 feet  The longer edge of a king-sized mattress is six feet, eight inches",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Can the biggest crustacean stretch out completely on a king-sized mattress?",
+      "",
+      "Can the largest crustacean reach its full length on a mattress of royal size?"
+    ]
+  },
+  {
+    "id": "strategyqa_0238",
+    "question": "Were the Ten commandments the part of the bible that Jewish people do not believe in?",
+    "answer": "no",
+    "facts": "The Jewish religion regards the Old Testament as their holy book. The New Testament of the bible is not acknowledged by Jewish religious people. The Ten Commandments are in the Old Testamanet.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Were the Ten Commandments part of the Bible that the Jews did not believe?"
+    ]
+  },
+  {
+    "id": "strategyqa_0239",
+    "question": "Do spider wasps have eight legs?",
+    "answer": "no",
+    "facts": "A spider wasp is a kind of wasp, which is an insect. Insects all have six legs.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0240",
+    "question": "Would Recep Tayyip Erdoğan be unfamiliar with börek?",
+    "answer": "no",
+    "facts": "Turkey enjoys a wide variety of regional variations of börek among the different cultures and ethnicities composing it. Börek is very popular in the cuisines of the former Ottoman Empire, especially in North Africa and throughout the Balkans. Recep Tayyip Erdoğan is the current president of Turkey and he was born and raised there.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Does Recep Tayyip Erdoğan not know the börek?"
+    ]
+  },
+  {
+    "id": "strategyqa_0241",
+    "question": "Is Jack Black unlikely to compete with Bear McCreary for an award?",
+    "answer": "yes",
+    "facts": "Jack Black is a musician but not a composer Bear McCreary is a composer Their interests are similar but their skills not overlap in awards categories",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "Is Jack Black unlikely to compete with Bear McCreary for an awarding?",
+      "",
+      "Can't Jack Black compete with Bear McCreary for a prize?"
+    ]
+  },
+  {
+    "id": "strategyqa_0242",
+    "question": "Did Jerry Seinfeld have reason to cheer in 1986?",
+    "answer": "yes",
+    "facts": "Jerry Seinfeld is a fan of the New York Mets baseball team The New York Mets won a World Series title in 1986",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Jerry Seinfeld have a reason to rejoice in 1986?"
+    ]
+  },
+  {
+    "id": "strategyqa_0243",
+    "question": "Is zoology unconcerned with strigoi?",
+    "answer": "yes",
+    "facts": "Zoology is the study of the behavior and classification of animals. Strigoi are spirits that can transform into animals in Romanian mythology. Zoology is based on science and fossils.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "So, zoology doesn't care about strigoi?"
+    ]
+  },
+  {
+    "id": "strategyqa_0244",
+    "question": "Are sables related to wolverines?",
+    "answer": "yes",
+    "facts": "The sable is a species of marten, which make up the genus Martes. Wolverines are from the genus Gulo. Both the Martes and the Gulo are from the family Mustelidae.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Are the sands connected to the wolves?"
+    ]
+  },
+  {
+    "id": "strategyqa_0245",
+    "question": "Was Muhammed a member of the Uniting Church in Australia?",
+    "answer": "no",
+    "facts": "The Uniting Church in Australia is a combination of Methodist and Presbyterian congregations. Methodists and Presbyterians are Christians. Muhammed was the Muslim prophet and was not a Christian.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Was Muhammad a member of the Unity Church in Australia?"
+    ]
+  },
+  {
+    "id": "strategyqa_0246",
+    "question": "Can Jabberwocky be considered a sonnet?",
+    "answer": "no",
+    "facts": "A sonnet is a fourteen line poem that follows certain rhyme schemes. Jabberwocky is an 1871 poem by Lewis Carroll. Jabberwocky is a 28 line poem that uses nonsense words.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": "strategyqa_0247",
+    "question": "Did mongoose come from later period than rhinos?",
+    "answer": "yes",
+    "facts": "The mongoose originated  in the Neogene geological period. Rhinos are from the Paleogene geological period. The Paleogene period spans 43 million years from the end of the Cretaceous Period 66 million years ago to the beginning of the Neogene Period.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did mangoes come about later than rhinoceros?"
+    ]
+  },
+  {
+    "id": "strategyqa_0248",
+    "question": "Did Columbus obtain his funding from the rulers of the Portugese Empire?",
+    "answer": "no",
+    "facts": " King Ferdinand and Queen Isabella funded Columbus' voyage to the New World. King Ferdinand of Argon and Queen Isabella of Castille were the joint rulers of kingdoms of the Iberian Peninsula, which included modern-day Spain but excludes Portugal.  King John II of Portugal rejected Columbus' request for funding. ",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Did Columbus get his money from the rulers of the Portuguese Empire?"
+    ]
+  },
+  {
+    "id": "strategyqa_0249",
+    "question": "Do people with swallowing disorders need high viscosity drinks?",
+    "answer": "yes",
+    "facts": "Swallowing disorders can make thin liquids like water dangerous to drink. Liquid thickeners are marketed towards people with difficulty drinking.",
+    "type": "reasoning",
+    "dataset": "strategyqa",
+    "perturbations": [
+      "",
+      "",
+      "Do people with digestive problems need high-viscosity drinks?"
+    ]
+  }
+]
