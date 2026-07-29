@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rqeval"
-version = "1.2.0"
-description = "A multi-dimensional behavioral framework for evaluating LLM reasoning quality beyond accuracy"
+version = "2.0.2"
+description = "RQEval: A multi-dimensional behavioral framework for evaluating LLM reasoning quality beyond accuracy"
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.9"
@@ -17,7 +17,7 @@ authors = [
 keywords = [
     "llm", "evaluation", "reasoning", "nlp",
     "large-language-models", "benchmarking",
-    "consistency", "robustness", "logical-coherence"
+    "consistency", "robustness", "logical-coherence", "rqeval"
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -34,7 +34,7 @@ dependencies = [
     "pyyaml>=6.0",
     "openai>=1.0.0",
     "anthropic>=0.20.0",
-    "google-genai>=1.0.0",
+    "google-generativeai>=0.5.0",
     "datasets>=2.14.0",
     "sentence-transformers>=2.2.0",
     "bert-score>=0.3.13",
@@ -42,14 +42,7 @@ dependencies = [
     "numpy>=1.24.0",
     "tqdm>=4.65.0",
     "requests>=2.31.0",
-    "certifi>=2024.2.2",
     "python-dotenv>=1.0.0",
-    "tiktoken>=0.7.0",
-    "nltk>=3.8.1",
-    "spacy>=3.7.0",
-    "lemminflect>=0.2.3",
-    "transformers>=4.40.0",
-    "sentencepiece>=0.1.99",
 ]
 
 [project.optional-dependencies]
@@ -64,18 +57,23 @@ viz = [
     "matplotlib>=3.7.0",
     "seaborn>=0.12.0",
 ]
-all = ["rqeval[local,viz]"]
+perturbation = [
+    "nltk>=3.8",
+    "spacy>=3.7",
+    "lemminflect>=0.2.3",
+    "tiktoken>=0.7.0",
+]
+all = ["rqeval[local,viz,perturbation]"]
 
 [project.scripts]
 rqeval = "rqeval.cli:main"
-llm-eval = "rqeval.cli:main"
 
 [project.urls]
-Homepage     = "https://github.com/senolali/RQEval"
-Repository   = "https://github.com/senolali/RQEval"
+Homepage      = "https://github.com/senolali/RQEval"
+Repository    = "https://github.com/senolali/RQEval"
 "Bug Tracker" = "https://github.com/senolali/RQEval/issues"
-Paper        = "https://arxiv.org/abs/2605.24661"
-PyPI         = "https://pypi.org/project/rqeval/"
+Paper         = "https://arxiv.org/abs/2605.24661"
+PyPI          = "https://pypi.org/project/rqeval/"
 
 [tool.setuptools.packages.find]
 where   = ["."]
