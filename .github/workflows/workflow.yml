@@ -1,1 +1,7 @@
-
+on:
+  push:
+    tags:
+      - "v*"  # Sadece version tag'lerinde
+  # veya
+  push:
+    branches: [main]  # Main'e her push'ta (önerilmez)
