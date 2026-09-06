@@ -812,14 +812,18 @@ This happens when `deterministic: true` and no `temperature` is set per model. T
 If you use RQEval in your research, please cite:
 
 ```bibtex
-@article{senol2026reasoning,
-  title         = {Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework (RQEval)},
-  author        = {Şenol, Ali and Agrawal, Garima and Liu, Huan},
-  year          = {2026},
-  eprint        = {2605.24661},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/2605.24661}
+@Article{bdcc10090300,
+AUTHOR = {Şenol, Ali and Agrawal, Garima and Liu, Huan},
+TITLE = {Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework},
+JOURNAL = {Big Data and Cognitive Computing},
+VOLUME = {10},
+YEAR = {2026},
+NUMBER = {9},
+ARTICLE-NUMBER = {300},
+URL = {https://www.mdpi.com/2504-2289/10/9/300},
+ISSN = {2504-2289},
+ABSTRACT = {Despite remarkable progress on reasoning benchmarks, current LLM evaluation practice remains anchored to final-answer correctness. This provides limited insight into how models reason, how reliably they behave under contextual variation, or how efficiently they reach conclusions. This paper proposes RQEval, a unified multi-dimensional framework for measuring LLM reasoning quality from a behavioral perspective. The framework operationalizes six theoretically grounded dimensions rooted in cognitive science: Correctness (CQ), Consistency (CS), Robustness (RS), Local Logical Coherence (LS), Efficiency (ES), and Stability (SS). It also introduces deployment-aware aggregation, enabling context-specific model selection beyond accuracy-based leaderboards. Applying RQEval to seven LLMs across four benchmarks reveals an outcome-level cluster (CQ, CS, RS, and ES) characterized by strong intercorrelations and a trace-level layer in which LS is empirically distinct from the outcome-level metrics, whereas SS retains moderate associations with several of them. Across the 28 model–dataset observations, LS showed no statistically significant correlation with any other dimension. Efficiency-weighted deployment scenarios, nevertheless, produced limited ranking inversions among models that were otherwise ranked consistently across weighting schemes. The resulting pipeline provides a foundation for diagnosing LLM reasoning behavior across deployment contexts, while highlighting domain-specific validation as an important direction for future work.},
+DOI = {10.3390/bdcc10090300}
 }
 ```
 
