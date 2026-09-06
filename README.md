@@ -1,4 +1,4 @@
-# RQEval: [Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework https://www.mdpi.com/2504-2289/10/9/300]
+# RQEval: [Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework] (https://www.mdpi.com/2504-2289/10/9/300])
 
 [![PyPI](https://img.shields.io/pypi/v/rqeval)](https://pypi.org/project/rqeval/)
 [![arXiv](https://img.shields.io/badge/arXiv-2605.24661-b31b1b.svg)](https://arxiv.org/abs/2605.24661)
