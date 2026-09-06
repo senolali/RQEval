@@ -827,8 +827,6 @@ DOI = {10.3390/bdcc10090300}
 }
 ```
 
-*This citation refers to the arXiv preprint. The paper is currently under revision at MDPI Big Data and Cognitive Computing; once published, please prefer the journal version if available.*
-
 ---
 
 ## License
